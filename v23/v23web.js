@@ -4,7 +4,7 @@
 //
 
 //var fs = require('fs');
-var yaml = require('js-yaml');
+//var yaml = require("./lib/js-yaml.js");
 
 /*
 try {

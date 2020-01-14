@@ -16,6 +16,7 @@
   <script src="addon/fold/foldcode.js"></script>
   <script src="addon/lint/lint.js"></script>
   <script src="addon/lint/yaml-lint.js"></script>
+  <script src="lib/js-yaml.js"></script>
   <script src="v23web.js"></script>
 
   <article>
@@ -26,7 +27,7 @@
     </div>
     <div class="content">
       <div class="src">
-        <h4 class="subheader" style="font-family:Roboto,sans-serif;font-size:16px;font-weight:200;color:gray">Edit source here:</h4>
+        <h4 class="subheader" style="font-family:Roboto,sans-serif;font-size:16px;font-weight:200;color:gray">Edit source v2 YAML here:</h4>
         <textarea id="source">
 version: v2
 navigator:
@@ -110,8 +111,9 @@ deploy_stage:
     envVars: null
     run: echo "managed by aura"
   </textarea></div>
-      <h4 class="subheader" style="font-family:Roboto,sans-serif;font-size:16px;font-weight:200;color:gray">Converted YAML v3 is here:</h4>
-      <div class="dst">
+        <div class="dst">
+      <h4 class="subheader" style="font-family:Roboto,sans-serif;font-size:16px;font-weight:200;color:gray">Converted YAML v3 is here (select and copy to the clipboard):</h4>
+
       <textarea id="destination">
 version: v2
 navigator:
@@ -152,11 +154,10 @@ buildenvVars:
       var viewer = CodeMirror.fromTextArea(document.getElementById("destination"), {
         lineNumbers: true,
         mode: "text/yaml",
-        styleActiveLine: true,
         readOnly: true,
         theme: "nord"
       });
-
+      viewer = v23.convert(editor);
     </script>
   </section>
   </article>
