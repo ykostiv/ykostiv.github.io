@@ -23,11 +23,11 @@
 
   <section id=content>
     <div class="header">
-      <h1 style="font-family:Roboto,sans-serif;font-size:24px;font-weight:200;color:white">YAML v2 to v3 converter by DevFactory</h1>
+      <h1>YAML v2 to v3 converter by DevFactory</h1>
     </div>
     <div class="content">
       <div class="src">
-        <h4 class="subheader" style="font-family:Roboto,sans-serif;font-size:16px;font-weight:200;color:gray">Edit source v2 YAML here:</h4>
+        <h4 class="subheader">Edit source v2 YAML here:</h4>
         <textarea id="source">
 version: v2
 navigator:
@@ -112,7 +112,7 @@ deploy_stage:
     run: echo "managed by aura"
   </textarea></div>
         <div class="dst">
-      <h4 class="subheader" style="font-family:Roboto,sans-serif;font-size:16px;font-weight:200;color:gray">Converted YAML v3 is here (select and copy to the clipboard):</h4>
+      <h4 class="subheader">Converted YAML v3 is here (select and copy to the clipboard):</h4>
 
       <textarea id="destination">
 version: v2
@@ -142,6 +142,9 @@ buildenvVars:
   - key: "GITHUB_READ_TOKEN"
     secret: true
   </textarea></div>
+  <div class="gh-ribbon">
+      <a href="https://devhub.devfactory.com" target="_blank" title="DEVHUB">DevHub Portal</a>
+  </div>
 
   </div>
     <script>
@@ -154,12 +157,19 @@ buildenvVars:
       var viewer = CodeMirror.fromTextArea(document.getElementById("destination"), {
         lineNumbers: true,
         mode: "text/yaml",
+        styleActiveLine: true,
         readOnly: true,
         theme: "nord"
       });
-      viewer = v23.convert(editor);
+
+      var v2 = safeLoad(editor.options.value);
+      //if (v2.version != "v2") {
+      //  viewer.options.value = "\nSource is not a V2 YAML\n";
+      //  return;
+      //}
+      //var v3 = convert(v2);
+      //let viewer.options.value = yaml.safeDump(v3);
+
     </script>
   </section>
   </article>
-  <body style="background-color:#2b2d30">
-  </body>

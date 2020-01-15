@@ -1,5 +1,5 @@
 html, body {
-  height: 100%;
+  height: inherit;
 }
 
 body {
@@ -13,6 +13,10 @@ body {
   padding: 1px 0 30px;
   white-space: nowrap;
   overflow: hidden;
+  font-family:Roboto,sans-serif;
+  font-size:24px;
+  font-weight:200;
+  color:white;
 }
 
 .subheader {
@@ -22,7 +26,7 @@ body {
 }
 
 .content {
-  height: 100%;
+  height: inherit;
 }
 
 #permalink {
@@ -34,6 +38,10 @@ body {
   position: relative;
   float: left;
   height: 100%;
+  font-family:Roboto;
+  font-size:16px;
+  font-weight:200;
+  color:gray
 }
 
 .dst {
@@ -54,14 +62,15 @@ body {
 }
 
 /*.CodeMirror-scroll {
-  height: 500px;
+  height: inherit;
   line-height: 1.2;
 }*/
 
 .CodeMirror {
-  height: 100%;
+  height: 500px;
   font-size: 13px;
   border: 1px solid gray;
+  margin: 1px;
   font-size:14px;font-family: 'Source Code Pro';
   font-weight:50;
 }
