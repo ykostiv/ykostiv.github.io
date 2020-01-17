@@ -138,24 +138,6 @@ deploy_stage:
         theme: "nord"
       });
 
-      var timer;
-
-      source.on('change', function () {
-        clearTimeout(timer);
-        timer = setTimeout( function () {
-          var v2 = jsyaml.safeLoad(source.options.value);
-          console.log(v2);
-          if (v2.version != "v2") {
-            result = "\nSource is not a V2 YAML\n";
-            console.log(result);
-          } else {
-            var v3 = convert(v2);
-            var result = jsyaml.safeDump(v3);
-          }
-        }, 500);
-        console.log(result);
-      });
-
       result = CodeMirror.fromTextArea(document.getElementById('result'), {
         lineNumbers: true,
         mode: "text/yaml",
@@ -163,6 +145,39 @@ deploy_stage:
         readOnly: true,
         theme: "nord"
       });
+
+      var v2 = jsyaml.safeLoad(source.options.value);
+      if (v2.version != "v2") {
+        result = "\nSource is not a V2 YAML\n";
+        console.log(result);
+      } else {
+        var v3 = convert(v2);
+        var result = jsyaml.safeDump(v3);
+      }v
+
+
+
+      var result = jsyaml.safeDump(v3);
+
+      var timer;
+
+      source.on('change', function () {
+        clearTimeout(timer);
+        timer = setTimeout( function () {
+          v2 = jsyaml.safeLoad(source.options.value);
+          console.log(v2);
+          if (v2.version != "v2") {
+            result = "\nSource is not a V2 YAML\n";
+            console.log(result);
+          } else {
+            v3 = convert(v2);
+            result = jsyaml.safeDump(v3);
+          }
+        }, 500);
+        console.log(result);
+      });
+
+
 
       // initial source
 
