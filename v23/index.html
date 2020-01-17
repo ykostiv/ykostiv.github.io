@@ -16,7 +16,9 @@
   <script src="addon/fold/foldcode.js"></script>
   <script src="addon/lint/lint.js"></script>
   <script src="addon/lint/yaml-lint.js"></script>
-  <script src="lib/js-yaml.js"></script>
+  <script src="https://cdn.jsdelivr.net/es5.shim/4.4.1/es5-shim.min.js"></script>
+
+  <script src="lib/js-yaml.min.js"></script>
   <script src="v23web.js"></script>
 
   <article>
@@ -114,47 +116,47 @@ deploy_stage:
         <div class="dst">
       <h4 class="subheader">Converted YAML v3 is here (select and copy to the clipboard):</h4>
 
-      <textarea id="destination">
-version: v2
-navigator:
-  name: Galina Volobueva
-  email: galina.volobueva@trilogy.com
-tickets:
-  engImportTicket: https://jira.devfactory.com/browse/SLIAO-8285
-  devHubTicket:    null
-  dockerTicket:    null
-  devSpacesTicket: null
-  vmTicket:        null
-repo:
-  companyName: Think3
-  productName: SLIAO
-  repoUrl: https://github.com/trilogy-group/think3-sli-templatebuilder-modules-client-release-service
-  repoBranch: master
-  repoType: Third party managed service
-build:
-  preBuild: .cicd/ci/env-build.sh
-  buildCommand: mvn compile
-  credentials:
-  - class: string
-    credentialsId: sli-github-read-token
-    variable: GITHUB_READ_TOKEN
-buildenvVars:
-  - key: "GITHUB_READ_TOKEN"
-    secret: true
+      <textarea id="result">
+
   </textarea></div>
   <div class="gh-ribbon">
       <a href="https://devhub.devfactory.com" target="_blank" title="DEVHUB">DevHub Portal</a>
   </div>
 
   </div>
+
     <script>
-      var editor = CodeMirror.fromTextArea(document.getElementById("source"), {
+
+    window.onload = function () {
+      permalink    = document.getElementById('permalink');
+      default_text = document.getElementById('source').value || '';
+
+      source = CodeMirror.fromTextArea(document.getElementById('source'), {
+        mode: 'text/yaml',
         lineNumbers: true,
-        mode: "text/yaml",
         styleActiveLine: true,
         theme: "nord"
       });
-      var viewer = CodeMirror.fromTextArea(document.getElementById("destination"), {
+
+      var timer;
+
+      source.on('change', function () {
+        clearTimeout(timer);
+        timer = setTimeout( function () {
+          var v2 = jsyaml.safeLoad(source.options.value);
+          console.log(v2);
+          if (v2.version != "v2") {
+            result = "\nSource is not a V2 YAML\n";
+            console.log(result);
+          } else {
+            var v3 = convert(v2);
+            var result = jsyaml.safeDump(v3);
+          }
+        }, 500);
+        console.log(result);
+      });
+
+      result = CodeMirror.fromTextArea(document.getElementById('result'), {
         lineNumbers: true,
         mode: "text/yaml",
         styleActiveLine: true,
@@ -162,14 +164,34 @@ buildenvVars:
         theme: "nord"
       });
 
-      var v2 = safeLoad(editor.options.value);
-      //if (v2.version != "v2") {
-      //  viewer.options.value = "\nSource is not a V2 YAML\n";
-      //  return;
-      //}
-      //var v3 = convert(v2);
-      //let viewer.options.value = yaml.safeDump(v3);
+      // initial source
 
-    </script>
+
+    };
+
+  /*    var editor = CodeMirror.fromTextArea(document.getElementById("source"), {
+        lineNumbers: true,
+        mode: "text/yaml",
+        styleActiveLine: true,
+        theme: "nord"
+      });
+      var viewer = CodeMirror.fromTextArea(document.getElementById("result"), {
+        lineNumbers: true,
+        mode: "text/yaml",
+        styleActiveLine: true,
+        readOnly: true,
+        theme: "nord"
+      });
+      var v2 = jsyaml.safeLoad(editor.options.value);
+      if (v2.version != "v2") {
+        outputStr = "\nSource is not a V2 YAML\n";
+      } else {
+        var v3 = convert(v2);
+        var outputStr = jsyaml.safeDump(v3);
+      }
+      console.log(outputStr);
+      viewer.options.value = outputStr;
+      console.log(viewer); */
+      </script>
   </section>
   </article>
