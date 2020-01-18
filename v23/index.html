@@ -33,11 +33,11 @@
         <textarea id="source">
 version: v2
 navigator:
-  name: Galina Volobueva
-  email: galina.volobueva@trilogy.com
+  name: John Doe
+  email: john.doe@trilogy.com
 tickets:
-  engImportTicket: https://jira.devfactory.com/browse/SLIAO-8285
-  devHubTicket:    null
+  engImportTicket: https://jira.devfactory.com/browse/Y3K-1
+  devHubTicket:    https://jira.devfactory.com/browse/Y3K-2
   dockerTicket:    null
   devSpacesTicket: null
   vmTicket:        null
@@ -112,101 +112,76 @@ deploy_stage:
       passwordVariable: RD_PASSWORD
     envVars: null
     run: echo "managed by aura"
-  </textarea></div>
-        <div class="dst">
-      <h4 class="subheader">Converted YAML v3 is here (select and copy to the clipboard):</h4>
-
-      <textarea id="result">
-
-  </textarea></div>
-  <div class="gh-ribbon">
-      <a href="https://devhub.devfactory.com" target="_blank" title="DEVHUB">DevHub Portal</a>
-  </div>
-
-  </div>
-
+        </textarea>
+      </div>
+      <div class="dst">
+        <h4 class="subheader">Converted YAML v3 is here (select and copy to the clipboard):</h4>
+        <textarea id="result">
+        </textarea>
+      </div>
+      <div class="gh-ribbon">
+        <a href="https://devhub.devfactory.com" target="_blank" title="DEVHUB">DevHub Portal</a>
+      </div>
+    </div>
     <script>
 
-    window.onload = function () {
-      permalink    = document.getElementById('permalink');
-      default_text = document.getElementById('source').value || '';
+      window.onload = function () {
 
-      source = CodeMirror.fromTextArea(document.getElementById('source'), {
-        mode: 'text/yaml',
-        lineNumbers: true,
-        styleActiveLine: true,
-        theme: "nord"
-      });
+        source = CodeMirror.fromTextArea(document.getElementById('source'), {
+          mode: 'text/yaml',
+          lineNumbers: true,
+          styleActiveLine: true,
+          theme: "nord"
+        });
 
-      result = CodeMirror.fromTextArea(document.getElementById('result'), {
-        lineNumbers: true,
-        mode: "text/yaml",
-        styleActiveLine: true,
-        readOnly: true,
-        theme: "nord"
-      });
+        var v2 = jsyaml.safeLoad(source.options.value);
+        if (v2.version != "v2") {
+          result = "\nSource is not a V2 YAML\n";
+        } else {
+          var v3 = convert(v2);
+          var result = jsyaml.safeDump(v3);
+        }
 
-      var v2 = jsyaml.safeLoad(source.options.value);
-      if (v2.version != "v2") {
-        result = "\nSource is not a V2 YAML\n";
-        console.log(result);
-      } else {
-        var v3 = convert(v2);
-        var result = jsyaml.safeDump(v3);
-      }v
+        document.getElementById('result').innerHTML = result;
 
+        CodeMirror.fromTextArea(document.getElementById('result'), {
+          lineNumbers: false,
+          mode: "text/yaml",
+          styleActiveLine: false,
+          readOnly: true,
+          theme: "nord"
+        });
 
+        var timer;
 
-      var result = jsyaml.safeDump(v3);
+        source.on('change', function () {
+          console.log("source changed");
+          clearTimeout(timer);
+          timer = setTimeout( function () {
+            try {
+              console.log("trying...");
+              v2 = jsyaml.safeLoad(document.getElementById('source').value);
+              console.log(v2.version);
+              if (v2.version != "v2") {
+                console.log("wrong version");
+                result = "\nSource is not a V2 YAML\n";
+                document.getElementById('result').value = result;
+              } else {
+                console.log("converting...");
+  //              v3 = convert(v2);
+                result = jsyaml.safeDump("\nSource CONVERTED\n");
+                document.getElementById('result').value = result;
+              }
+            } catch (e) {
+              console.log("source error caught!");
+              result = "\nSource is not V2 YAML\n";
+              document.getElementById('result').value = result;
+            }
+          }, 500);
 
-      var timer;
+        });
+      };
 
-      source.on('change', function () {
-        clearTimeout(timer);
-        timer = setTimeout( function () {
-          v2 = jsyaml.safeLoad(source.options.value);
-          console.log(v2);
-          if (v2.version != "v2") {
-            result = "\nSource is not a V2 YAML\n";
-            console.log(result);
-          } else {
-            v3 = convert(v2);
-            result = jsyaml.safeDump(v3);
-          }
-        }, 500);
-        console.log(result);
-      });
-
-
-
-      // initial source
-
-
-    };
-
-  /*    var editor = CodeMirror.fromTextArea(document.getElementById("source"), {
-        lineNumbers: true,
-        mode: "text/yaml",
-        styleActiveLine: true,
-        theme: "nord"
-      });
-      var viewer = CodeMirror.fromTextArea(document.getElementById("result"), {
-        lineNumbers: true,
-        mode: "text/yaml",
-        styleActiveLine: true,
-        readOnly: true,
-        theme: "nord"
-      });
-      var v2 = jsyaml.safeLoad(editor.options.value);
-      if (v2.version != "v2") {
-        outputStr = "\nSource is not a V2 YAML\n";
-      } else {
-        var v3 = convert(v2);
-        var outputStr = jsyaml.safeDump(v3);
-      }
-      console.log(outputStr);
-      viewer.options.value = outputStr;
-      console.log(viewer); */
       </script>
   </section>
   </article>
