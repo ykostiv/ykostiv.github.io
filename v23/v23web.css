@@ -37,7 +37,7 @@ body {
   width: 49%;
   position: relative;
   float: left;
-  height: 100%;
+  height: inherit;
   font-family:Roboto;
   font-size:16px;
   font-weight:200;
@@ -67,7 +67,7 @@ body {
 }*/
 
 .CodeMirror {
-  height: 700px;
+  height: 83vh;
   font-size: 13px;
   border: 1px solid gray;
   margin: 1px;
