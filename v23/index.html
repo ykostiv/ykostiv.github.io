@@ -125,7 +125,6 @@ deploy_stage:
     </div>
     <script>
 
-
       window.onload = function () {
 
         source = CodeMirror.fromTextArea(document.getElementById('source'), {
@@ -156,24 +155,18 @@ deploy_stage:
         var timer;
 
         source.on('change', function () {
-          console.log("source changed");
           var ddoc = source.doc.getValue();
           clearTimeout(timer);
           timer = setTimeout( function () {
             try {
-              console.log("trying...");
               v2 = jsyaml.safeLoad(ddoc);
-              console.log(v2.version);
               if (v2.version != "v2") {
-                console.log("wrong version");
                 result = "\nSource is not a V2 YAML\n";
               } else {
-                console.log("converting...");
                 v3 = convert(v2);
                 result = jsyaml.safeDump(v3);
               }
             } catch (e) {
-              console.log("source error caught!");
               result = "\nSource is not V2 YAML\n";
             }
             target.doc.setValue(result);
