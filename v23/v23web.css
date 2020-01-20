@@ -9,6 +9,12 @@ body {
   background-color: #2b2d30;
 }
 
+.header img {
+  float: left;
+  width: 200px;
+  height: 78px;
+}
+
 .header {
   padding: 1px 0 30px;
   white-space: nowrap;
@@ -17,6 +23,11 @@ body {
   font-size:24px;
   font-weight:200;
   color:white;
+}
+
+.header h1 {
+  float: left;
+  padding: 0 50px;
 }
 
 .subheader {
