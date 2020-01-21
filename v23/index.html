@@ -124,19 +124,32 @@ deploy_stage:
         <a href="https://sites.google.com/devfactory.com/devhub" target="_blank" title="DevHub Portal">DevHub</a>
       </div>
     </div>
+    <div class="footer">Copyright (c) 2020 ESW Capital, DevFactory</div>
+
     <script>
 
       window.onload = function () {
+
+        var sunRise = 9;
+        var sunSet = 18;
+        var currentTime = new Date().getHours();
+        if (sunRise <= currentTime&&currentTime < sunSet) {
+          document.body.className = "day";
+          var cmTheme = "default";
+        } else {
+            document.body.className = "night";
+            var cmTheme = "nord";
+          }
 
         source = CodeMirror.fromTextArea(document.getElementById('source'), {
           mode: 'text/yaml',
           lineNumbers: true,
           styleActiveLine: true,
-          theme: "nord"
+          theme: cmTheme
         });
 
         var v2 = jsyaml.safeLoad(source.options.value);
-        if (v2.version != "v2") {
+        if (v2.version != "v2" & v2.version != "2.0" & v2.version != "2") {
           result = "\nSource is not a V2 YAML\n";
         } else {
           var v3 = convert(v2);
@@ -150,7 +163,7 @@ deploy_stage:
           mode: "text/yaml",
           styleActiveLine: false,
           readOnly: true,
-          theme: "nord"
+          theme: cmTheme
         });
 
         var timer;
@@ -161,14 +174,14 @@ deploy_stage:
           timer = setTimeout( function () {
             try {
               v2 = jsyaml.safeLoad(ddoc);
-              if (v2.version != "v2") {
+              if (v2.version != "v2" & v2.version != "2.0" & v2.version != "2") {
                 result = "\nSource is not a V2 YAML\n";
               } else {
                 v3 = convert(v2);
                 result = jsyaml.safeDump(v3);
               }
             } catch (e) {
-              result = "\nSource is not V2 YAML\n";
+              result = "\nERROR: Source YAML fails validation\n";
             }
             target.doc.setValue(result);
           }, 500);

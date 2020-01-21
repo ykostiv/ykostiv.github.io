@@ -9,6 +9,16 @@ body {
   background-color: #2b2d30;
 }
 
+.day {
+  background-color: lightgray;
+  color: #3b3c3e;
+}
+
+.night {
+  background-color: #2b2d30;
+  color: white;
+}
+
 .header img {
   float: left;
   width: 200px;
@@ -22,7 +32,6 @@ body {
   font-family:Roboto,sans-serif;
   font-size:24px;
   font-weight:200;
-  color:white;
 }
 
 .header h1 {
@@ -32,6 +41,7 @@ body {
 
 .subheader {
   position: absolute;
+  font-family:Roboto,sans-serif;
   top: -50px;
   width: 100%;
 }
@@ -44,15 +54,24 @@ body {
   float: right;
 }
 
+.footer {
+  float: right;
+  padding: 10px;
+  font-family:Roboto,sans-serif;
+  font-style: italic;
+  font-size:12px;
+  color:gray;
+}
+
 .src, .dst {
   width: 49%;
   position: relative;
   float: left;
   height: inherit;
-  font-family:Roboto;
+  font-family:Roboto,sans-serif;
   font-size:16px;
   font-weight:200;
-  color:gray
+  color:gray;
 }
 
 .dst {
@@ -82,7 +101,8 @@ body {
   font-size: 13px;
   border: 1px solid gray;
   margin: 1px;
-  font-size:14px;font-family: 'Source Code Pro';
+  font-size:14px;
+  font-family: 'Source Code Pro',monospace;
   font-weight:50;
 }
 
@@ -105,7 +125,7 @@ body {
     z-index: 10000;
 }
 .gh-ribbon a {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Roboto,sans-serif;
     font-size: 13px;
     border: 1px solid #AAAAAA;
     color: #FFFFFF;
