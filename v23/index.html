@@ -17,6 +17,7 @@
   <script src="addon/lint/lint.js"></script>
   <script src="addon/lint/yaml-lint.js"></script>
   <script src="https://cdn.jsdelivr.net/es5.shim/4.4.1/es5-shim.min.js"></script>
+  <script src="lib/suncalc.js"></script>
 
   <script src="lib/js-yaml.min.js"></script>
   <script src="v23web.js"></script>
@@ -130,9 +131,18 @@ deploy_stage:
 
       window.onload = function () {
 
-        var sunRise = 9;
-        var sunSet = 18;
-        var currentTime = new Date().getHours();
+        // Theme switch depending on sunrise/sunset times
+
+        var today = new Date();
+        var currentTime = today.getHours() + today.getMinutes()/60;
+        var timeZone = today.getTimezoneOffset()/60;
+        var times = SunCalc.getTimes(new Date(), 51.5, -0.1); //London latitude and longitude
+        var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
+        var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
+
+        sunRise = 9;
+        sunSet = 18;
+
         if (sunRise <= currentTime&&currentTime < sunSet) {
           document.body.className = "day";
           var cmTheme = "default";
@@ -141,6 +151,7 @@ deploy_stage:
             var cmTheme = "nord";
           }
 
+        // Creating source editor window
         source = CodeMirror.fromTextArea(document.getElementById('source'), {
           mode: 'text/yaml',
           lineNumbers: true,
@@ -148,6 +159,7 @@ deploy_stage:
           theme: cmTheme
         });
 
+        // Conversion
         var v2 = jsyaml.safeLoad(source.options.value);
         if (v2.version != "v2" & v2.version != "2.0" & v2.version != "2") {
           result = "\nSource is not a V2 YAML\n";
@@ -156,8 +168,10 @@ deploy_stage:
           var result = jsyaml.safeDump(v3);
         }
 
+        // Actual result update
         document.getElementById('result').innerHTML = result;
 
+        // Creating result viewer window
         var target = CodeMirror.fromTextArea(document.getElementById('result'), {
           lineNumbers: false,
           mode: "text/yaml",
@@ -168,6 +182,7 @@ deploy_stage:
 
         var timer;
 
+        // Handling editor changes
         source.on('change', function () {
           var ddoc = source.doc.getValue();
           clearTimeout(timer);
