@@ -139,19 +139,6 @@ deploy_stage:
       var position = {lat: 51.5, long: -0.1}; // default London latitude and longitude
       var geourl = "https://geolocation-db.com/jsonp";
 
-      /* var resp = Request.request({
-          url: geourl,
-          json: true
-      }, function (error, response, body) {
-          if (!error && response.statusCode === 200) {
-              position.lat = body.latitude;
-              position.long = body.longitude;
-              console.log("got position %s %s", position.lat, position.long);
-          } else {
-            console.log("Error getting coordinates: %s", error);
-          }
-      }); */
-
     	function callback(data)
     	{
     		position.lat = data.latitude;
@@ -163,7 +150,7 @@ deploy_stage:
     	script.src = 'https://geolocation-db.com/jsonp';
     	var h = document.getElementsByTagName('script')[0];
     	h.parentNode.insertBefore(script, h);
-
+      console.log(position.lat,position.long);
       var times = SunCalc.getTimes(new Date(), position.lat, position.long);
       var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
       var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
