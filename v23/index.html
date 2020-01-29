@@ -150,7 +150,7 @@ deploy_stage:
     	script.src = 'https://geolocation-db.com/jsonp';
     	var h = document.getElementsByTagName('script')[0];
     	h.parentNode.insertBefore(script, h);
-      console.log(position.lat,position.long);
+
       var times = SunCalc.getTimes(new Date(), position.lat, position.long);
       var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
       var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
@@ -165,6 +165,7 @@ deploy_stage:
 
       window.onload = function () {
 
+        console.log(position.lat,position.long);
         // Creating source editor window
         source = CodeMirror.fromTextArea(document.getElementById('source'), {
           mode: 'text/yaml',
