@@ -152,16 +152,17 @@ deploy_stage:
           }
       }); */
 
-      var xhr = new XMLHttpRequest();
-      xhr.open('GET', geourl, true);
-      xhr.send();
+    	function callback(data)
+    	{
+    		position.lat = data.latitude;
+    		position.long = data.longitude;
+    	}
 
-      xhr.onreadystatechange = processRequest;
-
-      function processRequest(e) {
-        //var rsp = JSON.parse(xhr.responseText);
-        console.log(xhr);
-      }
+    	var script = document.createElement('script');
+    	script.type = 'text/javascript';
+    	script.src = 'https://geolocation-db.com/jsonp';
+    	var h = document.getElementsByTagName('script')[0];
+    	h.parentNode.insertBefore(script, h);
 
       var times = SunCalc.getTimes(new Date(), position.lat, position.long);
       var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
