@@ -153,7 +153,6 @@ deploy_stage:
 
       window.onload = function () {
 
-        console.log(position.lat,position.long);
         var times = SunCalc.getTimes(new Date(), position.lat, position.long);
         var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
         var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
@@ -215,7 +214,6 @@ deploy_stage:
               result = "\nERROR: Source YAML fails validation\n";
             }
             target.doc.setValue(result);
-            console.log(position.lat, position.long);
           }, 500);
 
         });
