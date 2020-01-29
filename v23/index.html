@@ -153,9 +153,12 @@ deploy_stage:
 
       window.onload = function () {
 
+        console.log(position.lat,position.long);
         var times = SunCalc.getTimes(new Date(), position.lat, position.long);
         var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
         var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
+
+        console.log("Curr: %s, SunRise: %s, SunSet: %s", currentTime, sunRise, sunSet);
 
         if (sunRise <= currentTime&&currentTime < sunSet) {
           document.body.className = "day";
@@ -165,7 +168,6 @@ deploy_stage:
             var cmTheme = "nord";
           }
 
-        console.log(position.lat,position.long);
         // Creating source editor window
         source = CodeMirror.fromTextArea(document.getElementById('source'), {
           mode: 'text/yaml',
