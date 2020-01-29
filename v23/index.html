@@ -1,6 +1,6 @@
   <!doctype html>
 
-  <title>DevHub CICD YAML Converter</title>
+  <title>DevHub CI/CD YAML Converter</title>
   <meta charset="utf-8"/>
 
   <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto|Source+Code+Pro&display=swap">
@@ -9,6 +9,7 @@
   <link rel=stylesheet href="theme/nord.css"></link>
   <link rel=stylesheet href="addon/lint/lint.css"></link>
   <link rel=stylesheet href="addon/fold/foldgutter.css"></link>
+  <link rel="shortcut icon" type="image/png" href="favicon.ico" />
   <script src="lib/codemirror.js"></script>
   <script src="mode/yaml/yaml.js"></script>
   <script src="addon/selection/active-line.js"></script>
@@ -18,7 +19,7 @@
   <script src="addon/lint/yaml-lint.js"></script>
   <script src="https://cdn.jsdelivr.net/es5.shim/4.4.1/es5-shim.min.js"></script>
   <script src="lib/suncalc.js"></script>
-
+  <!-- script src="lib/request.min.js"></script -->
   <script src="lib/js-yaml.min.js"></script>
 
   <script src="v23web.js"></script>
@@ -135,12 +136,36 @@ deploy_stage:
       var today = new Date();
       var currentTime = today.getHours() + today.getMinutes()/60;
       var timeZone = today.getTimezoneOffset()/60;
-      var times = SunCalc.getTimes(new Date(), 51.5, -0.1); //London latitude and longitude
+      var position = {lat: 51.5, long: -0.1}; // default London latitude and longitude
+      var geourl = "https://geolocation-db.com/jsonp";
+
+      /* var resp = Request.request({
+          url: geourl,
+          json: true
+      }, function (error, response, body) {
+          if (!error && response.statusCode === 200) {
+              position.lat = body.latitude;
+              position.long = body.longitude;
+              console.log("got position %s %s", position.lat, position.long);
+          } else {
+            console.log("Error getting coordinates: %s", error);
+          }
+      }); */
+
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', geourl, true);
+      xhr.send();
+
+      xhr.onreadystatechange = processRequest;
+
+      function processRequest(e) {
+        //var rsp = JSON.parse(xhr.responseText);
+        console.log(xhr);
+      }
+
+      var times = SunCalc.getTimes(new Date(), position.lat, position.long);
       var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
       var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
-
-      sunRise = 9;
-      sunSet = 18;
 
       if (sunRise <= currentTime&&currentTime < sunSet) {
         document.body.className = "day";
@@ -199,6 +224,7 @@ deploy_stage:
               result = "\nERROR: Source YAML fails validation\n";
             }
             target.doc.setValue(result);
+            console.log(position.lat, position.long);
           }, 500);
 
         });
