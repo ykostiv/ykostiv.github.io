@@ -151,19 +151,19 @@ deploy_stage:
     	var h = document.getElementsByTagName('script')[0];
     	h.parentNode.insertBefore(script, h);
 
-      var times = SunCalc.getTimes(new Date(), position.lat, position.long);
-      var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
-      var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
-
-      if (sunRise <= currentTime&&currentTime < sunSet) {
-        document.body.className = "day";
-        var cmTheme = "default";
-      } else {
-          document.body.className = "night";
-          var cmTheme = "nord";
-        }
-
       window.onload = function () {
+
+        var times = SunCalc.getTimes(new Date(), position.lat, position.long);
+        var sunRise = times.sunriseEnd.getHours() + times.sunriseEnd.getMinutes()/60;
+        var sunSet = times.sunsetStart.getHours() + times.sunsetStart.getMinutes()/60;
+
+        if (sunRise <= currentTime&&currentTime < sunSet) {
+          document.body.className = "day";
+          var cmTheme = "default";
+        } else {
+            document.body.className = "night";
+            var cmTheme = "nord";
+          }
 
         console.log(position.lat,position.long);
         // Creating source editor window
