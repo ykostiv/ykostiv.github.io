@@ -29,8 +29,8 @@
         <textarea id="source">
 version: v2
 navigator:
-  name: John Doe
-  email: john.doe@trilogy.com
+  name: Service DevHub
+  email: dhService@trilogy.com
 tickets:
   engImportTicket: https://jira.devfactory.com/browse/Y3K-1
   devHubTicket:    https://jira.devfactory.com/browse/Y3K-2
@@ -38,76 +38,43 @@ tickets:
   devSpacesTicket: null
   vmTicket:        null
 repo:
-  companyName: Think3
-  productName: SLIAO
-  repoUrl: https://github.com/trilogy-group/think3-sli-templatebuilder-modules-client-release-service
+  companyName: DevFactory
+  productName: IMPDH
+  repoUrl: https://github.com/trilogy-group/v23yaml
   repoBranch: master
-  repoType: Third party managed service
+  repoType: Final deployable
+  githubTokenSecretId: github-access
+buildDeps:
 build:
-  preBuild: .cicd/ci/env-build.sh
-  buildCommand: mvn compile
-  credentials:
-  - class: string
-    credentialsId: sli-github-read-token
-    variable: GITHUB_READ_TOKEN
+  techStack: Node.js
+  buildOs: Ubuntu 18.04
+  runtimeVersion: Node.js 10
+  buildTool: npm
+  preBuild: echo skip
+  buildCommand: npm install
 buildenvVars:
-  - key: "GITHUB_READ_TOKEN"
-    secret: true
-    secretId: "devhub-import/env/GITHUB-SLI-TOKEN"
 test:
-  preTest: null
-  testCommand: mvn test
+  utFramework: Karma
+  preTest:
+  testCommand: echo Skip
 package:
-  packageTool: Maven
-  packageCommand: mvn package
-  artifactDir: target
-  artifactUploadCommand: .cicd/ci/package.sh
-  credentials:
-    - class: usernamePassword
-      credentialsId: slisys-jenkins
-      usernameVariable: GITHUB_SLI_USERNAME
-      passwordVariable: GITHUB_SLI_PASSWORD
-ports:
-    - name: http
-      number: 8000
-      protocol: http
-      public: true
-jenkins:
-  productPath: /SLI-Systems/YAML/SLIAO
-  agentLabel: slisys-tbslave
-  pipelines:
-    ci:
-      environment: null
-    ib:
-      environment:
-        PKG_TYPE: snapshot
-      deployEnv: qa
-    rc:
-      environment:
-        PKG_TYPE: release
-      deployEnv: stage
-deploy_qa:
-  deploy:
-    deployCommand: .cicd/ib/deploy.sh
-    deploymentCheck: .cicd/ib/healthcheck.sh
-    credentials:
-    - class: usernamePassword
-      credentialsId: central-release-user
-      usernameVariable: RD_USER
-      passwordVariable: RD_PASSWORD
-    envVars: null
-    run: echo "managed by aura"
-deploy_stage:
-  deploy:
-    deployCommand: .cicd/rc/deploy.sh
-    deploymentCheck: .cicd/rc/healthcheck.sh
-    credentials:
-    - class: usernamePassword
-      credentialsId: central-release-user
-      usernameVariable: RD_USER
-      passwordVariable: RD_PASSWORD
-    envVars: null
-    run: echo "managed by aura"
+  packageTool:
+  packageCommand: echo skip
+  artifactDir: ./target
+deploy:
+  serviceName: y23-converter
+  deploymentCheck: echo skip
+  stickySessions: False
+  canUseLb: False
+  stablePersistence: False
+  fixedNetworkIdentifier: False
+run:
+  dockerized: False
+  runtimeOs: Ubuntu 18.04
+  runtimeEnv: None
+  installScript: echo Skip
+  runCommand: echo Skip
+  userName: root
         </textarea>
       </div>
       <div class="dst">
