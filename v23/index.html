@@ -10,7 +10,6 @@
   <link rel="shortcut icon" type="image/png" href="favicon.ico" />
   <script src="lib/codemirror.js"></script>
   <script src="mode/yaml/yaml.js"></script>
-  <script src="addon/fold/foldcode.js"></script>
   <script src="addon/selection/active-line.js"></script>
   <script src="https://cdn.jsdelivr.net/es5.shim/4.4.1/es5-shim.min.js"></script>
   <script src="lib/suncalc.js"></script>
@@ -164,11 +163,8 @@ deploy_stage:
           mode: 'text/yaml',
           lineNumbers: true,
           styleActiveLine: true,
-          extraKeys: {"Ctrl-Q": function(cm){ cm.foldCode(cm.getCursor()); }},
           theme: cmTheme
         });
-
-        source.foldCode(CodeMirror.Pos(0, 0));
 
         // Conversion
         var v2 = jsyaml.safeLoad(source.options.value);
