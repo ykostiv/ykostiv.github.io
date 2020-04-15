@@ -1,0 +1,1667 @@
+
+<ExchangeRates country="GR" currency="EUR">
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>EC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PR</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.90187585</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.008201427</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.13381685</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.13381685</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.13381685</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.1842028</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.1842028</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.1842028</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.1842028</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.09476158</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.9296272</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.9296272</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>IS</countryCode>
+        <currencyCode>ISK</currencyCode>
+        <rate>0.007256894</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.10041169</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.10041169</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.10041169</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BG</countryCode>
+        <currencyCode>BGN</currencyCode>
+        <rate>0.5112997</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>0.03978358</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>HU</countryCode>
+        <currencyCode>HUF</currencyCode>
+        <rate>0.0029796492</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>0.23597148</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>RO</countryCode>
+        <currencyCode>RON</currencyCode>
+        <rate>0.20927507</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TR</countryCode>
+        <currencyCode>TRY</currencyCode>
+        <rate>0.15226959</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.61789423</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>0.69132394</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>0.11604968</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5958765</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5958765</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5958765</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5958765</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5958765</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>0.66871744</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>7.748515E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.06259781</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.13066772</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>HR</countryCode>
+        <currencyCode>HRK</currencyCode>
+        <rate>0.13445379</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>6.606019E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>0.2218377</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>0.017699428</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.01455744</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.029686803</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.21511853</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.04821206</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.012679655</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>0.24564593</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>AL</countryCode>
+        <currencyCode>ALL</currencyCode>
+        <rate>0.008179906</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CW</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>0.50400686</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SX</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>0.50400686</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>AR</countryCode>
+        <currencyCode>ARS</currencyCode>
+        <rate>0.015008683</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BA</countryCode>
+        <currencyCode>BAM</currencyCode>
+        <rate>0.5112997</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BH</countryCode>
+        <currencyCode>BHD</currencyCode>
+        <rate>2.3992324</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CL</countryCode>
+        <currencyCode>CLP</currencyCode>
+        <rate>0.0011685408</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>EG</countryCode>
+        <currencyCode>EGP</currencyCode>
+        <rate>0.05708577</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>GE</countryCode>
+        <currencyCode>GEL</currencyCode>
+        <rate>0.31301844</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.26066783</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>JO</countryCode>
+        <currencyCode>JOD</currencyCode>
+        <rate>1.2724265</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>2.9700031</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>LB</countryCode>
+        <currencyCode>LBP</currencyCode>
+        <rate>5.9842353E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>LK</countryCode>
+        <currencyCode>LKR</currencyCode>
+        <rate>0.0049709226</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>EH</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>0.09385529</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>MA</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>0.09385529</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>MU</countryCode>
+        <currencyCode>MUR</currencyCode>
+        <rate>0.02464596</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NG</countryCode>
+        <currencyCode>NGN</currencyCode>
+        <rate>0.0024887917</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>OM</countryCode>
+        <currencyCode>OMR</currencyCode>
+        <rate>2.3463163</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PA</countryCode>
+        <currencyCode>PAB</currencyCode>
+        <rate>0.90212</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>0.0058347518</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>QA</countryCode>
+        <currencyCode>QAR</currencyCode>
+        <rate>0.2478376</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>RS</countryCode>
+        <currencyCode>RSD</currencyCode>
+        <rate>0.008506454</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>0.24056388</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SY</countryCode>
+        <currencyCode>SYP</currencyCode>
+        <rate>0.0017517</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TN</countryCode>
+        <currencyCode>TND</currencyCode>
+        <rate>0.3200717</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>0.030068947</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>UA</countryCode>
+        <currencyCode>UAH</currencyCode>
+        <rate>0.036979374</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>VE</countryCode>
+        <currencyCode>VEF</currencyCode>
+        <rate>0.09032526</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BF</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>BJ</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>CI</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>GW</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>ML</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>NE</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>SN</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://diavgeia.gov.gr/decision/view/%CE%A862%CE%9246%CE%9C%CE%A03%CE%96-%CE%9D%CE%953</source>
+        <countryCode>TG</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AF</countryCode>
+        <currencyCode>AFN</currencyCode>
+        <rate>0.0121098366</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AG</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AI</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DM</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GD</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KN</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MS</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.3390426691</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AM</countryCode>
+        <currencyCode>AMD</currencyCode>
+        <rate>0.0018484784</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AO</countryCode>
+        <currencyCode>AOA</currencyCode>
+        <rate>0.0016272876</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AW</countryCode>
+        <currencyCode>AWG</currencyCode>
+        <rate>0.5118008588</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AZ</countryCode>
+        <currencyCode>AZN</currencyCode>
+        <rate>0.5399982088</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BB</countryCode>
+        <currencyCode>BBD</currencyCode>
+        <rate>0.4580617686</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BD</countryCode>
+        <currencyCode>BDT</currencyCode>
+        <rate>0.010789348</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BI</countryCode>
+        <currencyCode>BIF</currencyCode>
+        <rate>4.820539E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BM</countryCode>
+        <currencyCode>BMD</currencyCode>
+        <rate>0.9161235372</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BN</countryCode>
+        <currencyCode>BND</currencyCode>
+        <rate>0.6472933445</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BO</countryCode>
+        <currencyCode>BOB</currencyCode>
+        <rate>0.132953715</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BS</countryCode>
+        <currencyCode>BSD</currencyCode>
+        <rate>0.9161235372</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BT</countryCode>
+        <currencyCode>BTN</currencyCode>
+        <rate>0.0120140941</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BW</countryCode>
+        <currencyCode>BWP</currencyCode>
+        <rate>0.0765168249</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BY</countryCode>
+        <currencyCode>BYN</currencyCode>
+        <rate>3.7247035E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BZ</countryCode>
+        <currencyCode>BZD</currencyCode>
+        <rate>0.4546772711</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CD</countryCode>
+        <currencyCode>CDF</currencyCode>
+        <rate>5.358279E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CF</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CG</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CM</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GA</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GQ</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TD</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0015244902</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CO</countryCode>
+        <currencyCode>COP</currencyCode>
+        <rate>2.36415E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CR</countryCode>
+        <currencyCode>CRC</currencyCode>
+        <rate>0.0015975545</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CU</countryCode>
+        <currencyCode>CUP</currencyCode>
+        <rate>0.0345706995</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CV</countryCode>
+        <currencyCode>CVE</currencyCode>
+        <rate>0.0090686497</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DJ</countryCode>
+        <currencyCode>DJF</currencyCode>
+        <rate>0.0051531227</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DO</countryCode>
+        <currencyCode>DOP</currencyCode>
+        <rate>0.0168390323</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DZ</countryCode>
+        <currencyCode>DZD</currencyCode>
+        <rate>0.0072019998</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ER</countryCode>
+        <currencyCode>ERN</currencyCode>
+        <rate>0.0610749025</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ET</countryCode>
+        <currencyCode>ETB</currencyCode>
+        <rate>0.0275957546</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FJ</countryCode>
+        <currencyCode>FJD</currencyCode>
+        <rate>0.4018489879</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FK</countryCode>
+        <currencyCode>FKP</currencyCode>
+        <rate>1.1464156982</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GH</countryCode>
+        <currencyCode>GHS</currencyCode>
+        <rate>0.1572138381</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GI</countryCode>
+        <currencyCode>GIP</currencyCode>
+        <rate>1.1464156982</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GM</countryCode>
+        <currencyCode>GMD</currencyCode>
+        <rate>0.0179654997</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GN</countryCode>
+        <currencyCode>GNF</currencyCode>
+        <rate>9.59107E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GT</countryCode>
+        <currencyCode>GTQ</currencyCode>
+        <rate>0.1187731994</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GY</countryCode>
+        <currencyCode>GYD</currencyCode>
+        <rate>0.0044255113</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HN</countryCode>
+        <currencyCode>HNL</currencyCode>
+        <rate>0.0369618605</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HT</countryCode>
+        <currencyCode>HTG</currencyCode>
+        <rate>0.0095916556</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IQ</countryCode>
+        <currencyCode>IQD</currencyCode>
+        <rate>7.735571E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IR</countryCode>
+        <currencyCode>IRR</currencyCode>
+        <rate>2.18674E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>JM</countryCode>
+        <currencyCode>JMD</currencyCode>
+        <rate>0.0067663813</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KE</countryCode>
+        <currencyCode>KES</currencyCode>
+        <rate>0.0086513083</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KG</countryCode>
+        <currencyCode>KGS</currencyCode>
+        <rate>0.0117745906</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KH</countryCode>
+        <currencyCode>KHR</currencyCode>
+        <rate>2.260428E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KM</countryCode>
+        <currencyCode>KMF</currencyCode>
+        <rate>0.0020326536</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KP</countryCode>
+        <currencyCode>KPW</currencyCode>
+        <rate>0.0010178483</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KY</countryCode>
+        <currencyCode>KYD</currencyCode>
+        <rate>1.1172237209</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KZ</countryCode>
+        <currencyCode>KZT</currencyCode>
+        <rate>0.0021472343</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LA</countryCode>
+        <currencyCode>LAK</currencyCode>
+        <rate>1.023623E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LR</countryCode>
+        <currencyCode>LRD</currencyCode>
+        <rate>0.004627048</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LS</countryCode>
+        <currencyCode>LSL</currencyCode>
+        <rate>0.0505909664</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LY</countryCode>
+        <currencyCode>LYD</currencyCode>
+        <rate>0.6455911282</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MD</countryCode>
+        <currencyCode>MDL</currencyCode>
+        <rate>0.0504232433</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MG</countryCode>
+        <currencyCode>MGA</currencyCode>
+        <rate>2.440775E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MK</countryCode>
+        <currencyCode>MKD</currencyCode>
+        <rate>0.0161545283</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MM</countryCode>
+        <currencyCode>MMK</currencyCode>
+        <rate>6.448136E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MN</countryCode>
+        <currencyCode>MNT</currencyCode>
+        <rate>3.290777E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MO</countryCode>
+        <currencyCode>MOP</currencyCode>
+        <rate>0.1147316539</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MR</countryCode>
+        <currencyCode>MRU</currencyCode>
+        <rate>0.0245782551</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MV</countryCode>
+        <currencyCode>MVR</currencyCode>
+        <rate>0.059487222</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MW</countryCode>
+        <currencyCode>MWK</currencyCode>
+        <rate>0.0012452014</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MZ</countryCode>
+        <currencyCode>MZN</currencyCode>
+        <rate>0.0136619726</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NA</countryCode>
+        <currencyCode>NAD</currencyCode>
+        <rate>0.0505909664</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NC</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.00838</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PF</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.00838</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NI</countryCode>
+        <currencyCode>NIO</currencyCode>
+        <rate>0.0267124708</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NP</countryCode>
+        <currencyCode>NPR</currencyCode>
+        <rate>0.0074737755</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PE</countryCode>
+        <currencyCode>PEN</currencyCode>
+        <rate>0.2704018151</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PG</countryCode>
+        <currencyCode>PGK</currencyCode>
+        <rate>0.2665948795</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PY</countryCode>
+        <currencyCode>PYG</currencyCode>
+        <rate>1.402461E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RW</countryCode>
+        <currencyCode>RWF</currencyCode>
+        <rate>9.791345E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SB</countryCode>
+        <currencyCode>SBD</currencyCode>
+        <rate>0.111629482</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SC</countryCode>
+        <currencyCode>SCR</currencyCode>
+        <rate>0.0545496117</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SD</countryCode>
+        <currencyCode>SDG</currencyCode>
+        <rate>0.0165596851</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SH</countryCode>
+        <currencyCode>SHP</currencyCode>
+        <rate>1.1464156982</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SL</countryCode>
+        <currencyCode>SLL</currencyCode>
+        <rate>9.43636E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SO</countryCode>
+        <currencyCode>SOS</currencyCode>
+        <rate>0.0015894868</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SR</countryCode>
+        <currencyCode>SRD</currencyCode>
+        <rate>0.1228476213</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ST</countryCode>
+        <currencyCode>STN</currencyCode>
+        <rate>0.0407403469</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SV</countryCode>
+        <currencyCode>SVC</currencyCode>
+        <rate>0.1046998328</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SZ</countryCode>
+        <currencyCode>SZL</currencyCode>
+        <rate>0.0505909664</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TJ</countryCode>
+        <currencyCode>TJS</currencyCode>
+        <rate>0.0943164357</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TM</countryCode>
+        <currencyCode>TMT</currencyCode>
+        <rate>0.2617495626</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TO</countryCode>
+        <currencyCode>TOP</currencyCode>
+        <rate>0.3955302249</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TT</countryCode>
+        <currencyCode>TTD</currencyCode>
+        <rate>0.1356320645</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TZ</countryCode>
+        <currencyCode>TZS</currencyCode>
+        <rate>3.95899E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UG</countryCode>
+        <currencyCode>UGX</currencyCode>
+        <rate>2.435313E-4</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UY</countryCode>
+        <currencyCode>UYU</currencyCode>
+        <rate>0.0214598449</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UZ</countryCode>
+        <currencyCode>UZS</currencyCode>
+        <rate>9.47439E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VN</countryCode>
+        <currencyCode>VND</currencyCode>
+        <rate>3.90316E-5</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VU</countryCode>
+        <currencyCode>VUV</currencyCode>
+        <rate>0.007415652</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>WS</countryCode>
+        <currencyCode>WST</currencyCode>
+        <rate>0.3285782579</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>YE</countryCode>
+        <currencyCode>YER</currencyCode>
+        <rate>0.0036590243</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZM</countryCode>
+        <currencyCode>ZMW</currencyCode>
+        <rate>0.0494090056</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZW</countryCode>
+        <currencyCode>ZWD</currencyCode>
+        <rate>0.0025314273</rate>
+        <effectiveFrom>2020-04-01+03:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

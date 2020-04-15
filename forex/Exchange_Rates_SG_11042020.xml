@@ -1,0 +1,874 @@
+
+<ExchangeRates country="SG" currency="SGD">
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>87.6600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>101.5900</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>20.2300</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>AD</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>AT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>AX</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>BE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CY</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>DE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>EE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>ES</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>EU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>FI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>FR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>GF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>GP</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>GR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>IE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>IT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>LT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>LU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>LV</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MC</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>ME</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MQ</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>NL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>PM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>PT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>RE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>SI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>SK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>SM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>VA</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>YT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.5515</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>18.4600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>1.8833</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>0.0088</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>1.3149</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>0.1169</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>32.8900</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>85.1700</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>85.1700</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>85.1700</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>85.1700</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>85.1700</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>2.8246</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>38.0600</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>146.9000</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>146.9000</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>4.7479</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>4.3555</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>100</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.7608</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.7608</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.7608</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.7608</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>EC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>PR</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>TC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.customs.gov.sg/eservices/exchange-rates-and-currency-converter/exchange-rates</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>1.4314</rate>
+        <effectiveFrom>2020-04-13+08:00</effectiveFrom>
+        <effectiveTo>2020-04-19+08:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>0.3848053474</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.2767175353</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>0.0571722811</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.2070179413</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.2070179413</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.2070179413</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LK</countryCode>
+        <currencyCode>LKR</currencyCode>
+        <rate>0.0074004491</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MO</countryCode>
+        <currencyCode>MOP</currencyCode>
+        <rate>0.1769715178</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.1385447277</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.1385447277</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.1385447277</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>0.3394983356</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VN</countryCode>
+        <currencyCode>VND</currencyCode>
+        <rate>5.98415E-5</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>4.5425675</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>0.0084649783</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RO</countryCode>
+        <currencyCode>RON</currencyCode>
+        <rate>0.3198624337</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.0192176195</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.1421657248</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TR</countryCode>
+        <currencyCode>TRY</currencyCode>
+        <rate>0.2109804993</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.0785967477</rate>
+        <effectiveFrom>2020-04-11+08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

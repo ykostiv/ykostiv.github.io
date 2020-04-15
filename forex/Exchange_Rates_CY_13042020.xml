@@ -1,0 +1,696 @@
+
+<ExchangeRates country="CY" currency="EUR">
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>EC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>PR</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.9145783794</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.0084904058</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1338114864</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1338114864</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1338114864</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.0847163467</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.0847163467</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.0847163467</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.0847163467</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.0907251663</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.9482268159</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.9482268159</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>IS</countryCode>
+        <currencyCode>ISK</currencyCode>
+        <rate>0.0065487885</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.085462781</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.085462781</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.085462781</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>BG</countryCode>
+        <currencyCode>BGN</currencyCode>
+        <rate>0.5112997239</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>0.0368269868</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>HU</countryCode>
+        <currencyCode>HUF</currencyCode>
+        <rate>0.0028459218</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>0.2221728505</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>RO</countryCode>
+        <currencyCode>RON</currencyCode>
+        <rate>0.2063983488</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TR</countryCode>
+        <currencyCode>TRY</currencyCode>
+        <rate>0.1418620817</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5385609651</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>0.6349609499</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>0.11776205</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5339883591</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5339883591</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5339883591</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5339883591</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5339883591</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>0.6345177665</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>7.257947E-4</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.0538723441</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.1299967501</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>HR</countryCode>
+        <currencyCode>HRK</currencyCode>
+        <rate>0.1316915783</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>5.91977E-5</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>0.2092356621</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>0.0177176166</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.0114815967</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.0282103363</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.1781483263</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.0381658995</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.0123250612</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>JO</countryCode>
+        <currencyCode>JOD</currencyCode>
+        <rate>1.2934937266</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>2.9524653085</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>BH</countryCode>
+        <currencyCode>BHD</currencyCode>
+        <rate>2.4289531212</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>0.0300720225</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>EG</countryCode>
+        <currencyCode>EGP</currencyCode>
+        <rate>0.0580915756</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>LB</countryCode>
+        <currencyCode>LBP</currencyCode>
+        <rate>6.064925E-4</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>0.2519082047</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>QA</countryCode>
+        <currencyCode>QAR</currencyCode>
+        <rate>0.2502377258</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>OM</countryCode>
+        <currencyCode>OMR</currencyCode>
+        <rate>2.326122354</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>0.2450680064</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.2439202869</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>RS</countryCode>
+        <currencyCode>RSD</currencyCode>
+        <rate>0.0085052094</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>UA</countryCode>
+        <currencyCode>UAH</currencyCode>
+        <rate>0.0334431383</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.mof.gov.cy/mof/customs/customs.nsf/All/4631D14872DA2DDFC225836A002431B6?OpenDocument</source>
+        <countryCode>BY</countryCode>
+        <currencyCode>BYN</currencyCode>
+        <rate>0.3633852974</rate>
+        <effectiveFrom>2020-04-01+02:00</effectiveFrom>
+        <effectiveTo>2020-04-30+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

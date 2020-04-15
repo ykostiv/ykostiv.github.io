@@ -1,0 +1,691 @@
+
+<ExchangeRates country="NI" currency="USD">
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.0092867756</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2497</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2497</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2497</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2497</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>1.0341261634</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>1.0341261634</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>AD</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>AT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>AX</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>BE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CY</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>DE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>EE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>ES</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>EU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>FI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>FR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GP</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>IE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>IT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>LT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>LU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>LV</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>MC</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>ME</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>MF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>MQ</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>MT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>NL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>PM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>PT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>RE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>VA</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>YT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0911</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>0.7158708569</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.1002697256</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.0975666868</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.0975666868</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.0975666868</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1461945557</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1461945557</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1461945557</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.0135968216</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>0.128993976</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>0.7067137809</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>BO</countryCode>
+        <currencyCode>BOB</currencyCode>
+        <rate>0.146627566</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.0305623472</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.0131156141</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>8.215577E-4</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>0.0332524191</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.1417856485</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>0.266028199</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>SY</countryCode>
+        <currencyCode>SYP</currencyCode>
+        <rate>0.0019493177</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.2798768542</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>0.2722718362</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>3.2154340836</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>DO</countryCode>
+        <currencyCode>DOP</currencyCode>
+        <rate>0.0185150898</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.0420413603</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>PY</countryCode>
+        <currencyCode>PYG</currencyCode>
+        <rate>1.54703E-4</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>VE</countryCode>
+        <currencyCode>VEF</currencyCode>
+        <rate>9.9278E-6</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>AR</countryCode>
+        <currencyCode>ARS</currencyCode>
+        <rate>0.0152963671</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CL</countryCode>
+        <currencyCode>CLP</currencyCode>
+        <rate>0.001193175</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>PE</countryCode>
+        <currencyCode>PEN</currencyCode>
+        <rate>0.2966742813</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>UY</countryCode>
+        <currencyCode>UYU</currencyCode>
+        <rate>0.023174971</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.1923039942</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CO</countryCode>
+        <currencyCode>COP</currencyCode>
+        <rate>2.587992E-4</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>BZ</countryCode>
+        <currencyCode>BZD</currencyCode>
+        <rate>0.5004504054</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>GT</countryCode>
+        <currencyCode>GTQ</currencyCode>
+        <rate>0.1297589079</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CR</countryCode>
+        <currencyCode>CRC</currencyCode>
+        <rate>0.0017560188</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>CU</countryCode>
+        <currencyCode>CUP</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>HN</countryCode>
+        <currencyCode>HNL</currencyCode>
+        <rate>0.0404868134</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bcn.gob.ni/estadisticas/mercados_cambiarios/tipo_cambio/diario/index.php</source>
+        <countryCode>NI</countryCode>
+        <currencyCode>NIO</currencyCode>
+        <rate>0.0293053174</rate>
+        <effectiveFrom>2020-04-13-06:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

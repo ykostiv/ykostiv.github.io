@@ -1,0 +1,1047 @@
+
+<ExchangeRates country="LK" currency="LKR">
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>124.8151</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BH</countryCode>
+        <currencyCode>BHD</currencyCode>
+        <rate>530.8812</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BD</countryCode>
+        <currencyCode>BDT</currencyCode>
+        <rate>2.3632</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>39.1241</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BN</countryCode>
+        <currencyCode>BND</currencyCode>
+        <rate>140.5454</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>142.9303</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>28.3656</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNH</currencyCode>
+        <rate>28.3321</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>8.0062</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>29.1658</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>29.1658</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>29.1658</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>EG</countryCode>
+        <currencyCode>EGP</currencyCode>
+        <rate>12.7285</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>AD</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>AT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>AX</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CY</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>DE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>EE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>ES</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>EU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>FI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>FR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GP</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>IE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>IT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>LT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>LU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>LV</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MC</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>ME</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MQ</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>RE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>VA</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>YT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>217.6845</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GH</countryCode>
+        <currencyCode>GHS</currencyCode>
+        <rate>34.6841</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>25.8511</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>HU</countryCode>
+        <currencyCode>HUF</currencyCode>
+        <rate>0.6072</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>2.6397</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>0.0124</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>IR</countryCode>
+        <currencyCode>IRR</currencyCode>
+        <rate>0.0048</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>1.8401</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>JO</countryCode>
+        <currencyCode>JOD</currencyCode>
+        <rate>282.7560</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>0.1649</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>643.5762</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MO</countryCode>
+        <currencyCode>MOP</currencyCode>
+        <rate>25.0859</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>46.1922</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MV</countryCode>
+        <currencyCode>MVR</currencyCode>
+        <rate>12.9673</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MU</countryCode>
+        <currencyCode>MUR</currencyCode>
+        <rate>5.1011</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MM</countryCode>
+        <currencyCode>MMK</currencyCode>
+        <rate>0.1393</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NP</countryCode>
+        <currencyCode>NPR</currencyCode>
+        <rate>1.6405</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>120.4448</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>120.4448</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>120.4448</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>120.4448</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>120.4448</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NG</countryCode>
+        <currencyCode>NGN</currencyCode>
+        <rate>0.5561</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>19.5658</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>19.5658</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>19.5658</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>OM</countryCode>
+        <currencyCode>OMR</currencyCode>
+        <rate>520.5427</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>1.1960</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PG</countryCode>
+        <currencyCode>PGK</currencyCode>
+        <rate>58.3379</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>3.9651</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>48.0511</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>QA</countryCode>
+        <currencyCode>QAR</currencyCode>
+        <rate>55.0601</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>2.6724</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>53.3034</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SC</countryCode>
+        <currencyCode>SCR</currencyCode>
+        <rate>13.6377</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>140.5454</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>11.0269</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>19.8944</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>206.1853</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>206.1853</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>6.6596</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>6.1223</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>54.5782</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>248.5076</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>248.5076</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>248.5076</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>248.5076</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>EC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PR</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>TC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>200.4740</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>ZM</countryCode>
+        <currencyCode>ZMW</currencyCode>
+        <rate>10.6641</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.customs.gov.lk/exchangerates/home</source>
+        <countryCode>ZW</countryCode>
+        <currencyCode>ZWD</currencyCode>
+        <rate>0.5283</rate>
+        <effectiveFrom>2020-04-13+05:30</effectiveFrom>
+        <effectiveTo>2020-04-19+05:30</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

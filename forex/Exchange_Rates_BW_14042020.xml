@@ -1,0 +1,2181 @@
+
+<ExchangeRates country="BW" currency="BWP">
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNH</currencyCode>
+        <rate>1.7001020061</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>AD</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>AT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>AX</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>BE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>CY</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>DE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>EE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>ES</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>EU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>FI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>FR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>GF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>GP</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>GR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>IE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>IT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>LT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>LU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>LV</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>MC</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>ME</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>MF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>MQ</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>MT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>NL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>PM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>PT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>RE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>SI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>SK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>SM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>VA</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>YT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>13.1061598952</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>15.0602409639</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>15.0602409639</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>15.0602409639</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>15.0602409639</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>EC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>PR</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>TC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>11.9904076739</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.6622516556</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.bankofbotswana.bw/exchange-rates</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.1113585746</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>3.2601392764</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AF</countryCode>
+        <currencyCode>AFN</currencyCode>
+        <rate>0.156380071</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AG</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AI</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DM</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GD</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KN</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MS</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>4.4306058321</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AL</countryCode>
+        <currencyCode>ALL</currencyCode>
+        <rate>0.103320256</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AM</countryCode>
+        <currencyCode>AMD</currencyCode>
+        <rate>0.0240845724</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AO</countryCode>
+        <currencyCode>AOA</currencyCode>
+        <rate>0.0212344814</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AR</countryCode>
+        <currencyCode>ARS</currencyCode>
+        <rate>0.1836507037</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>7.6496226903</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AW</countryCode>
+        <currencyCode>AWG</currencyCode>
+        <rate>6.6887494371</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AZ</countryCode>
+        <currencyCode>AZN</currencyCode>
+        <rate>7.0574163304</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BA</countryCode>
+        <currencyCode>BAM</currencyCode>
+        <rate>6.6863448497</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BB</countryCode>
+        <currencyCode>BBD</currencyCode>
+        <rate>5.9864307462</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BD</countryCode>
+        <currencyCode>BDT</currencyCode>
+        <rate>0.1410056831</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BF</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BJ</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CI</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GW</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ML</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NE</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SN</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TG</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BG</countryCode>
+        <currencyCode>BGN</currencyCode>
+        <rate>6.6863448497</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BH</countryCode>
+        <currencyCode>BHD</currencyCode>
+        <rate>31.8427167351</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BI</countryCode>
+        <currencyCode>BIF</currencyCode>
+        <rate>0.0063023973</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BM</countryCode>
+        <currencyCode>BMD</currencyCode>
+        <rate>11.9728614924</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BN</countryCode>
+        <currencyCode>BND</currencyCode>
+        <rate>8.4500033277</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BO</countryCode>
+        <currencyCode>BOB</currencyCode>
+        <rate>1.7376176394</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>2.3020772041</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BS</countryCode>
+        <currencyCode>BSD</currencyCode>
+        <rate>11.9728614924</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BT</countryCode>
+        <currencyCode>BTN</currencyCode>
+        <rate>0.157062687</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>1.1615995878</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>1.1615995878</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>1.1615995878</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BY</countryCode>
+        <currencyCode>BYN</currencyCode>
+        <rate>4.8786387E-4</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BZ</countryCode>
+        <currencyCode>BZD</currencyCode>
+        <rate>5.9422131687</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>8.6092582803</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CD</countryCode>
+        <currencyCode>CDF</currencyCode>
+        <rate>0.0070037297</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CF</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CG</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CM</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GA</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GQ</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TD</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.0199362974</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>12.4027450101</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>12.4027450101</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>7.2966386851</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>7.2966386851</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>7.2966386851</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>7.2966386851</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>7.2966386851</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CL</countryCode>
+        <currencyCode>CLP</currencyCode>
+        <rate>0.0140440427</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>1.6952858922</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CO</countryCode>
+        <currencyCode>COP</currencyCode>
+        <rate>0.0030961122</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CR</countryCode>
+        <currencyCode>CRC</currencyCode>
+        <rate>0.0208776716</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CU</countryCode>
+        <currencyCode>CUP</currencyCode>
+        <rate>0.4518060941</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CV</countryCode>
+        <currencyCode>CVE</currencyCode>
+        <rate>0.1185939408</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CW</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>6.6887532258</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SX</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>6.6887532258</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>0.4874288142</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DJ</countryCode>
+        <currencyCode>DJF</currencyCode>
+        <rate>0.0673510248</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>1.752234692</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>1.752234692</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>1.752234692</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DO</countryCode>
+        <currencyCode>DOP</currencyCode>
+        <rate>0.2200522115</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DZ</countryCode>
+        <currencyCode>DZD</currencyCode>
+        <rate>0.0939407819</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>EG</countryCode>
+        <currencyCode>EGP</currencyCode>
+        <rate>0.7581326041</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>EH</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>1.1709796011</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MA</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>1.1709796011</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ER</countryCode>
+        <currencyCode>ERN</currencyCode>
+        <rate>0.7981907662</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ET</countryCode>
+        <currencyCode>ETB</currencyCode>
+        <rate>0.3606421356</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FJ</countryCode>
+        <currencyCode>FJD</currencyCode>
+        <rate>5.2550184796</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FK</countryCode>
+        <currencyCode>FKP</currencyCode>
+        <rate>15.0248335958</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GE</countryCode>
+        <currencyCode>GEL</currencyCode>
+        <rate>3.8071088992</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GH</countryCode>
+        <currencyCode>GHS</currencyCode>
+        <rate>2.0568315694</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GI</countryCode>
+        <currencyCode>GIP</currencyCode>
+        <rate>15.0248335958</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GM</countryCode>
+        <currencyCode>GMD</currencyCode>
+        <rate>0.2347935293</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GN</countryCode>
+        <currencyCode>GNF</currencyCode>
+        <rate>0.0012548887</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GT</countryCode>
+        <currencyCode>GTQ</currencyCode>
+        <rate>1.5522335023</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GY</countryCode>
+        <currencyCode>GYD</currencyCode>
+        <rate>0.0578498916</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>1.5446563122</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HN</countryCode>
+        <currencyCode>HNL</currencyCode>
+        <rate>0.4830645503</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HR</countryCode>
+        <currencyCode>HRK</currencyCode>
+        <rate>1.7183105944</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HT</countryCode>
+        <currencyCode>HTG</currencyCode>
+        <rate>0.1253485921</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HU</countryCode>
+        <currencyCode>HUF</currencyCode>
+        <rate>0.037160634</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>7.646319E-4</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>3.3399372856</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.157062687</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IQ</countryCode>
+        <currencyCode>IQD</currencyCode>
+        <rate>0.0100576524</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IR</countryCode>
+        <currencyCode>IRR</currencyCode>
+        <rate>2.863247E-4</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IS</countryCode>
+        <currencyCode>ISK</currencyCode>
+        <rate>0.0838792852</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>JM</countryCode>
+        <currencyCode>JMD</currencyCode>
+        <rate>0.0883207483</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>JO</countryCode>
+        <currencyCode>JOD</currencyCode>
+        <rate>16.8869696649</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KE</countryCode>
+        <currencyCode>KES</currencyCode>
+        <rate>0.1130617203</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KG</countryCode>
+        <currencyCode>KGS</currencyCode>
+        <rate>0.1529998055</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KH</countryCode>
+        <currencyCode>KHR</currencyCode>
+        <rate>0.0029565071</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KM</countryCode>
+        <currencyCode>KMF</currencyCode>
+        <rate>0.0265817299</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KP</countryCode>
+        <currencyCode>KPW</currencyCode>
+        <rate>0.013302343</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>0.009844325</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>38.7973155154</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KY</countryCode>
+        <currencyCode>KYD</currencyCode>
+        <rate>14.6009963685</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KZ</countryCode>
+        <currencyCode>KZT</currencyCode>
+        <rate>0.028061422</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LA</countryCode>
+        <currencyCode>LAK</currencyCode>
+        <rate>0.0013393575</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LB</countryCode>
+        <currencyCode>LBP</currencyCode>
+        <rate>0.0079421967</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LK</countryCode>
+        <currencyCode>LKR</currencyCode>
+        <rate>0.06304413</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LR</countryCode>
+        <currencyCode>LRD</currencyCode>
+        <rate>0.060431639</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LS</countryCode>
+        <currencyCode>LSL</currencyCode>
+        <rate>0.6583431662</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LY</countryCode>
+        <currencyCode>LYD</currencyCode>
+        <rate>8.4825709184</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MD</countryCode>
+        <currencyCode>MDL</currencyCode>
+        <rate>0.6589841777</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MG</countryCode>
+        <currencyCode>MGA</currencyCode>
+        <rate>0.0031886317</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MK</countryCode>
+        <currencyCode>MKD</currencyCode>
+        <rate>0.2119963023</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MM</countryCode>
+        <currencyCode>MMK</currencyCode>
+        <rate>0.0084270996</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MN</countryCode>
+        <currencyCode>MNT</currencyCode>
+        <rate>0.0043019502</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MO</countryCode>
+        <currencyCode>MOP</currencyCode>
+        <rate>1.4996663225</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MR</countryCode>
+        <currencyCode>MRU</currencyCode>
+        <rate>0.3212159185</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MU</countryCode>
+        <currencyCode>MUR</currencyCode>
+        <rate>0.3025612599</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MV</countryCode>
+        <currencyCode>MVR</currencyCode>
+        <rate>0.7775915463</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MW</countryCode>
+        <currencyCode>MWK</currencyCode>
+        <rate>0.0162741155</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.5067408404</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>2.764140396</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MZ</countryCode>
+        <currencyCode>MZN</currencyCode>
+        <rate>0.1784115528</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NA</countryCode>
+        <currencyCode>NAD</currencyCode>
+        <rate>0.6583431662</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NC</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.1095882252</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PF</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.1095882252</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NG</countryCode>
+        <currencyCode>NGN</currencyCode>
+        <rate>0.0309403386</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NI</countryCode>
+        <currencyCode>NIO</currencyCode>
+        <rate>0.3491168881</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NP</countryCode>
+        <currencyCode>NPR</currencyCode>
+        <rate>0.0977061817</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>OM</countryCode>
+        <currencyCode>OMR</currencyCode>
+        <rate>31.1387815147</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PA</countryCode>
+        <currencyCode>PAB</currencyCode>
+        <rate>11.9728614924</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PE</countryCode>
+        <currencyCode>PEN</currencyCode>
+        <rate>3.5338016071</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PG</countryCode>
+        <currencyCode>PGK</currencyCode>
+        <rate>3.4841269079</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>0.236547439</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>0.0715857128</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>2.873104553</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PY</countryCode>
+        <currencyCode>PYG</currencyCode>
+        <rate>0.0018307221</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>QA</countryCode>
+        <currencyCode>QAR</currencyCode>
+        <rate>3.2892476627</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RO</countryCode>
+        <currencyCode>RON</currencyCode>
+        <rate>2.7063630196</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RS</countryCode>
+        <currencyCode>RSD</currencyCode>
+        <rate>0.111239334</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.1629884162</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RW</countryCode>
+        <currencyCode>RWF</currencyCode>
+        <rate>0.0127951046</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>3.1927630646</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SB</countryCode>
+        <currencyCode>SBD</currencyCode>
+        <rate>1.4594761765</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SC</countryCode>
+        <currencyCode>SCR</currencyCode>
+        <rate>0.7114446812</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SD</countryCode>
+        <currencyCode>SDG</currencyCode>
+        <rate>0.2165077417</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>1.201386892</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>8.4500033277</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SH</countryCode>
+        <currencyCode>SHP</currencyCode>
+        <rate>15.0248335958</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SL</countryCode>
+        <currencyCode>SLL</currencyCode>
+        <rate>0.0012326502</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SO</countryCode>
+        <currencyCode>SOS</currencyCode>
+        <rate>0.0207819588</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SR</countryCode>
+        <currencyCode>SRD</currencyCode>
+        <rate>1.6054959805</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ST</countryCode>
+        <currencyCode>STN</currencyCode>
+        <rate>0.5335920426</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SV</countryCode>
+        <currencyCode>SVC</currencyCode>
+        <rate>1.3683270277</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SY</countryCode>
+        <currencyCode>SYP</currencyCode>
+        <rate>0.0233381648</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SZ</countryCode>
+        <currencyCode>SZL</currencyCode>
+        <rate>0.6583431662</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.3659290675</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TJ</countryCode>
+        <currencyCode>TJS</currencyCode>
+        <rate>1.2347624926</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TM</countryCode>
+        <currencyCode>TMT</currencyCode>
+        <rate>3.4208165066</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TN</countryCode>
+        <currencyCode>TND</currencyCode>
+        <rate>4.1361394066</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TO</countryCode>
+        <currencyCode>TOP</currencyCode>
+        <rate>5.175654046</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TR</countryCode>
+        <currencyCode>TRY</currencyCode>
+        <rate>1.7659515029</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TT</countryCode>
+        <currencyCode>TTD</currencyCode>
+        <rate>1.7726521462</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>0.3982627681</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TZ</countryCode>
+        <currencyCode>TZS</currencyCode>
+        <rate>0.0051755412</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UA</countryCode>
+        <currencyCode>UAH</currencyCode>
+        <rate>0.4402625398</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UG</countryCode>
+        <currencyCode>UGX</currencyCode>
+        <rate>0.0031842212</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UY</countryCode>
+        <currencyCode>UYU</currencyCode>
+        <rate>0.2796746905</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UZ</countryCode>
+        <currencyCode>UZS</currencyCode>
+        <rate>0.0012347111</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VE</countryCode>
+        <currencyCode>VEF</currencyCode>
+        <rate>1.19878463</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VN</countryCode>
+        <currencyCode>VND</currencyCode>
+        <rate>5.098586E-4</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VU</countryCode>
+        <currencyCode>VUV</currencyCode>
+        <rate>0.0984945751</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>WS</countryCode>
+        <currencyCode>WST</currencyCode>
+        <rate>4.2940963633</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>YE</countryCode>
+        <currencyCode>YER</currencyCode>
+        <rate>0.0478165811</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZM</countryCode>
+        <currencyCode>ZMW</currencyCode>
+        <rate>0.6437722355</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZW</countryCode>
+        <currencyCode>ZWD</currencyCode>
+        <rate>0.0330833421</rate>
+        <effectiveFrom>2020-04-14+00:01</effectiveFrom>
+        <effectiveTo>2020-04-14+12:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

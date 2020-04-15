@@ -1,0 +1,507 @@
+
+<ExchangeRates country="BE" currency="EUR">
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>EC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>PR</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>TC</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.919878576</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.0084488003</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>BG</countryCode>
+        <currencyCode>BGN</currencyCode>
+        <rate>0.5112997239</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>0.0367876982</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1339764202</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1339764202</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.1339764202</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.137035521</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.137035521</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.137035521</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.137035521</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>HU</countryCode>
+        <currencyCode>HUF</currencyCode>
+        <rate>0.0027828797</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>0.2200607368</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>RO</countryCode>
+        <currencyCode>RON</currencyCode>
+        <rate>0.2067610876</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.091420213</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.9472387989</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.9472387989</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.0893335716</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.0893335716</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.0893335716</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>HR</countryCode>
+        <currencyCode>HRK</currencyCode>
+        <rate>0.1311733456</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.0121795856</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>TR</countryCode>
+        <currencyCode>TRY</currencyCode>
+        <rate>0.1355050272</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.5683109798</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.1762394036</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>0.656469507</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.1301778229</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>0.1186563357</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>5.67021E-5</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.2560557177</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.0120666562</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>7.550817E-4</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.0379698292</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>0.2115327664</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5496317467</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5496317467</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5496317467</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5496317467</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.5496317467</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>0.0181894247</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>0.6444544693</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.0280796338</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://www.nbb.be/en/about-national-bank/eurosystem/exchange-rates</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.0506011416</rate>
+        <effectiveFrom>2020-04-08+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>
