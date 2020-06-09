@@ -1,0 +1,1190 @@
+<ExchangeRates country="MY" currency="MYR">
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AF</countryCode>
+    <currencyCode>AFN</currencyCode>
+    <rate>0.0552432379100312</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AG</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AI</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AL</countryCode>
+    <currencyCode>ALL</currencyCode>
+    <rate>0.0388696246710172</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AM</countryCode>
+    <currencyCode>AMD</currencyCode>
+    <rate>0.00886789412983008</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AN</countryCode>
+    <currencyCode>ANG</currencyCode>
+    <rate>2.37649927397947</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AO</countryCode>
+    <currencyCode>AOA</currencyCode>
+    <rate>0.00715717071745232</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AR</countryCode>
+    <currencyCode>ARS</currencyCode>
+    <rate>0.061699723733317</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AW</countryCode>
+    <currencyCode>AWG</currencyCode>
+    <rate>2.37083118970679</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AZ</countryCode>
+    <currencyCode>AZN</currencyCode>
+    <rate>2.5135732957973</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BA</countryCode>
+    <currencyCode>BAM</currencyCode>
+    <rate>2.46073285545901</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BB</countryCode>
+    <currencyCode>BBD</currencyCode>
+    <rate>2.11275788850976</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BF</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BG</countryCode>
+    <currencyCode>BGN</currencyCode>
+    <rate>2.46865426250188</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BH</countryCode>
+    <currencyCode>BHD</currencyCode>
+    <rate>11.315929433864</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BI</countryCode>
+    <currencyCode>BIF</currencyCode>
+    <rate>0.00223312352735831</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BJ</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BM</countryCode>
+    <currencyCode>BMD</currencyCode>
+    <rate>4.26750423549795</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BO</countryCode>
+    <currencyCode>BOB</currencyCode>
+    <rate>0.616887923802003</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BR</countryCode>
+    <currencyCode>BRL</currencyCode>
+    <rate>0.87074185464532</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BS</countryCode>
+    <currencyCode>BSD</currencyCode>
+    <rate>4.26577483534109</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BT</countryCode>
+    <currencyCode>BTN</currencyCode>
+    <rate>0.0564848824990177</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BW</countryCode>
+    <currencyCode>BWP</currencyCode>
+    <rate>0.368559514621861</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BY</countryCode>
+    <currencyCode>BYN</currencyCode>
+    <rate>1.79450737183628</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BZ</countryCode>
+    <currencyCode>BZD</currencyCode>
+    <rate>2.11629014337865</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CD</countryCode>
+    <currencyCode>CDF</currencyCode>
+    <rate>0.00231300832853929</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CF</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.00733677373240139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CG</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.00733677373240139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CI</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CL</countryCode>
+    <currencyCode>CLP</currencyCode>
+    <rate>0.00553431730543388</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CM</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.00733677373240139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CO</countryCode>
+    <currencyCode>COP</currencyCode>
+    <rate>0.00117804381585775</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CU</countryCode>
+    <currencyCode>CUP</currencyCode>
+    <rate>0.161037701180374</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CV</countryCode>
+    <currencyCode>CVE</currencyCode>
+    <rate>0.0435236030022407</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CW</countryCode>
+    <currencyCode>ANG</currencyCode>
+    <rate>2.37649927397947</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CZ</countryCode>
+    <currencyCode>CZK</currencyCode>
+    <rate>0.182676128559421</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DJ</countryCode>
+    <currencyCode>DJF</currencyCode>
+    <rate>0.0240125320444238</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DM</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DO</countryCode>
+    <currencyCode>DOP</currencyCode>
+    <rate>0.0740949468950401</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DZ</countryCode>
+    <currencyCode>DZD</currencyCode>
+    <rate>0.0332104193572641</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EH</countryCode>
+    <currencyCode>MAD</currencyCode>
+    <rate>0.441062572665058</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ER</countryCode>
+    <currencyCode>ERN</currencyCode>
+    <rate>0.284492836043649</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ET</countryCode>
+    <currencyCode>ETB</currencyCode>
+    <rate>0.124234745029305</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FK</countryCode>
+    <currencyCode>FKP</currencyCode>
+    <rate>5.4290584926762</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GA</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.00733677373240139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GD</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GE</countryCode>
+    <currencyCode>GEL</currencyCode>
+    <rate>1.42486880520476</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GH</countryCode>
+    <currencyCode>GHS</currencyCode>
+    <rate>0.738960666601638</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GI</countryCode>
+    <currencyCode>GIP</currencyCode>
+    <rate>5.4290584926762</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GM</countryCode>
+    <currencyCode>GMD</currencyCode>
+    <rate>0.0828746222989088</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GN</countryCode>
+    <currencyCode>GNF</currencyCode>
+    <rate>0.000451109840142217</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GQ</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.00733677373240139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GT</countryCode>
+    <currencyCode>GTQ</currencyCode>
+    <rate>0.554900464729139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GW</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GY</countryCode>
+    <currencyCode>GYD</currencyCode>
+    <rate>0.0203649741424905</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HN</countryCode>
+    <currencyCode>HNL</currencyCode>
+    <rate>0.170906398667203</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HR</countryCode>
+    <currencyCode>HRK</currencyCode>
+    <rate>0.639910719656393</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HT</countryCode>
+    <currencyCode>HTG</currencyCode>
+    <rate>0.0397283360489637</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HU</countryCode>
+    <currencyCode>HUF</currencyCode>
+    <rate>0.0140825761425528</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IL</countryCode>
+    <currencyCode>ILS</currencyCode>
+    <rate>1.23896392880417</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IQ</countryCode>
+    <currencyCode>IQD</currencyCode>
+    <rate>0.00358613366621834</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IS</countryCode>
+    <currencyCode>ISK</currencyCode>
+    <rate>0.032239062188893</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>JM</countryCode>
+    <currencyCode>JMD</currencyCode>
+    <rate>0.0302612038173177</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KG</countryCode>
+    <currencyCode>KGS</currencyCode>
+    <rate>0.057589448507316</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KM</countryCode>
+    <currencyCode>KMF</currencyCode>
+    <rate>0.00978553588980328</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KN</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KP</countryCode>
+    <currencyCode>KPW</currencyCode>
+    <rate>0.00474153951102352</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KY</countryCode>
+    <currencyCode>KYD</currencyCode>
+    <rate>5.11875511875511</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KZ</countryCode>
+    <currencyCode>KZT</currencyCode>
+    <rate>0.010642373221984</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LA</countryCode>
+    <currencyCode>LAK</currencyCode>
+    <rate>0.000473640284577898</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LC</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LR</countryCode>
+    <currencyCode>LRD</currencyCode>
+    <rate>0.0214447361643387</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LS</countryCode>
+    <currencyCode>LSL</currencyCode>
+    <rate>0.239876549932342</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MA</countryCode>
+    <currencyCode>MAD</currencyCode>
+    <rate>0.441062572665058</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MD</countryCode>
+    <currencyCode>MDL</currencyCode>
+    <rate>0.247653176585382</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MG</countryCode>
+    <currencyCode>MGA</currencyCode>
+    <rate>0.00113587939806851</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MK</countryCode>
+    <currencyCode>MKD</currencyCode>
+    <rate>0.078036593075298</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ML</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MN</countryCode>
+    <currencyCode>MNT</currencyCode>
+    <rate>0.00151582997078918</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MO</countryCode>
+    <currencyCode>MOP</currencyCode>
+    <rate>0.534372152798373</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MR</countryCode>
+    <currencyCode>MRU</currencyCode>
+    <rate>0.113286547265674</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MS</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MU</countryCode>
+    <currencyCode>MUR</currencyCode>
+    <rate>0.107358525082816</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MV</countryCode>
+    <currencyCode>MVR</currencyCode>
+    <rate>0.276208377123869</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MW</countryCode>
+    <currencyCode>MWK</currencyCode>
+    <rate>0.00578631907137031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MY</countryCode>
+    <currencyCode>MYR</currencyCode>
+    <rate>1</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MZ</countryCode>
+    <currencyCode>MZN</currencyCode>
+    <rate>0.0613455006817325</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NA</countryCode>
+    <currencyCode>NAD</currencyCode>
+    <rate>0.254322076529582</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NC</countryCode>
+    <currencyCode>XPF</currencyCode>
+    <rate>0.0396699790966979</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NE</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NI</countryCode>
+    <currencyCode>NIO</currencyCode>
+    <rate>0.124145383182173</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>OM</countryCode>
+    <currencyCode>OMR</currencyCode>
+    <rate>11.0846311588981</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PA</countryCode>
+    <currencyCode>PAB</currencyCode>
+    <rate>4.26577483534109</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PE</countryCode>
+    <currencyCode>PEN</currencyCode>
+    <rate>1.23749358050205</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PF</countryCode>
+    <currencyCode>XPF</currencyCode>
+    <rate>0.0396699790966979</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PY</countryCode>
+    <currencyCode>PYG</currencyCode>
+    <rate>0.000641370343049704</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RO</countryCode>
+    <currencyCode>RON</currencyCode>
+    <rate>1.0025826529139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RU</countryCode>
+    <currencyCode>RUB</currencyCode>
+    <rate>0.0622748879565784</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RW</countryCode>
+    <currencyCode>RWF</currencyCode>
+    <rate>0.00456417011171367</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SB</countryCode>
+    <currencyCode>SBD</currencyCode>
+    <rate>0.511957798294771</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SC</countryCode>
+    <currencyCode>SCR</currencyCode>
+    <rate>0.2426128040363</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SD</countryCode>
+    <currencyCode>SDG</currencyCode>
+    <rate>0.0772047912675822</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SH</countryCode>
+    <currencyCode>SHP</currencyCode>
+    <rate>5.4290584926762</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SL</countryCode>
+    <currencyCode>SLL</currencyCode>
+    <rate>0.00043769219803021</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SN</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SO</countryCode>
+    <currencyCode>SOS</currencyCode>
+    <rate>0.00731989529387534</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SR</countryCode>
+    <currencyCode>SRD</currencyCode>
+    <rate>0.572205135541091</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ST</countryCode>
+    <currencyCode>STN</currencyCode>
+    <rate>0.194419327357537</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SX</countryCode>
+    <currencyCode>ANG</currencyCode>
+    <rate>2.37649927397947</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SY</countryCode>
+    <currencyCode>SYP</currencyCode>
+    <rate>0.00831199961658408</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SZ</countryCode>
+    <currencyCode>SZL</currencyCode>
+    <rate>0.254318454516924</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TD</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.00733677373240139</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TG</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.00738321490915031</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TJ</countryCode>
+    <currencyCode>TJS</currencyCode>
+    <rate>0.414676908633407</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TM</countryCode>
+    <currencyCode>TMT</currencyCode>
+    <rate>1.21581138388514</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TN</countryCode>
+    <currencyCode>TND</currencyCode>
+    <rate>1.49540089454881</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TO</countryCode>
+    <currencyCode>TOP</currencyCode>
+    <rate>1.89662268398662</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TR</countryCode>
+    <currencyCode>TRY</currencyCode>
+    <rate>0.628311594799339</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TT</countryCode>
+    <currencyCode>TTD</currencyCode>
+    <rate>0.63086945166089</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TZ</countryCode>
+    <currencyCode>TZS</currencyCode>
+    <rate>0.00184346867124171</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UA</countryCode>
+    <currencyCode>UAH</currencyCode>
+    <rate>0.16015777462694</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UG</countryCode>
+    <currencyCode>UGX</currencyCode>
+    <rate>0.00114364655698307</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UY</countryCode>
+    <currencyCode>UYU</currencyCode>
+    <rate>0.100194678259858</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UZ</countryCode>
+    <currencyCode>UZS</currencyCode>
+    <rate>0.000420319033991389</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VC</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>1.57906288933769</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VE</countryCode>
+    <currencyCode>VEF</currencyCode>
+    <rate>0.427284143528162</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VU</countryCode>
+    <currencyCode>VUV</currencyCode>
+    <rate>0.0369419088852199</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>WF</countryCode>
+    <currencyCode>XPF</currencyCode>
+    <rate>0.0396699790966979</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>WS</countryCode>
+    <currencyCode>WST</currencyCode>
+    <rate>1.60915286147607</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>YE</countryCode>
+    <currencyCode>YER</currencyCode>
+    <rate>0.0170461541157453</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ZM</countryCode>
+    <currencyCode>ZMW</currencyCode>
+    <rate>0.233420982912416</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ZW</countryCode>
+    <currencyCode>ZWD</currencyCode>
+    <rate>0.0117919420985025</rate>
+    <effectiveFrom>2020-06-08+08:00</effectiveFrom>
+    <effectiveTo>2020-06-14+08:00</effectiveTo>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+</ExchangeRates>

@@ -1,0 +1,1759 @@
+<ExchangeRates country="HN" currency="HNL">
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AD</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AE</countryCode>
+    <currencyCode>AED</currencyCode>
+    <rate>6.73582109659167</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AF</countryCode>
+    <currencyCode>AFN</currencyCode>
+    <rate>0.321116148353091</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AG</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AI</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AL</countryCode>
+    <currencyCode>ALL</currencyCode>
+    <rate>0.225148958550977</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AM</countryCode>
+    <currencyCode>AMD</currencyCode>
+    <rate>0.0514567482618039</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AN</countryCode>
+    <currencyCode>ANG</currencyCode>
+    <rate>13.8226553320892</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AO</countryCode>
+    <currencyCode>AOA</currencyCode>
+    <rate>0.04191274336844</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AR</countryCode>
+    <currencyCode>ARS</currencyCode>
+    <rate>0.358415873522206</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AS</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AT</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AU</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AW</countryCode>
+    <currencyCode>AWG</currencyCode>
+    <rate>13.7445708944966</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AX</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>AZ</countryCode>
+    <currencyCode>AZN</currencyCode>
+    <rate>14.5727984144795</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BA</countryCode>
+    <currencyCode>BAM</currencyCode>
+    <rate>14.2989919210695</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BB</countryCode>
+    <currencyCode>BBD</currencyCode>
+    <rate>12.2884844612113</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BD</countryCode>
+    <currencyCode>BDT</currencyCode>
+    <rate>0.292097705514103</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BE</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BF</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BG</countryCode>
+    <currencyCode>BGN</currencyCode>
+    <rate>14.2377128538071</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BH</countryCode>
+    <currencyCode>BHD</currencyCode>
+    <rate>65.5265054714632</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BI</countryCode>
+    <currencyCode>BIF</currencyCode>
+    <rate>0.013092410804711</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BJ</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BL</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BM</countryCode>
+    <currencyCode>BMD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BN</countryCode>
+    <currencyCode>BND</currencyCode>
+    <rate>17.8259474491069</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BO</countryCode>
+    <currencyCode>BOB</currencyCode>
+    <rate>3.58826779960242</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BQ</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BR</countryCode>
+    <currencyCode>BRL</currencyCode>
+    <rate>5.12888898006913</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BS</countryCode>
+    <currencyCode>BSD</currencyCode>
+    <rate>24.8120487308637</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BT</countryCode>
+    <currencyCode>BTN</currencyCode>
+    <rate>0.328578150341589</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BV</countryCode>
+    <currencyCode>NOK</currencyCode>
+    <rate>2.64369821656118</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BW</countryCode>
+    <currencyCode>BWP</currencyCode>
+    <rate>2.13877208816874</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BY</countryCode>
+    <currencyCode>BYN</currencyCode>
+    <rate>10.4440823829218</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>BZ</countryCode>
+    <currencyCode>BZD</currencyCode>
+    <rate>12.3113288848398</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CA</countryCode>
+    <currencyCode>CAD</currencyCode>
+    <rate>18.3580555147598</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CC</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CD</countryCode>
+    <currencyCode>CDF</currencyCode>
+    <rate>0.013548871490783</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CF</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.0426338910954769</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CG</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.0426338910954769</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CH</countryCode>
+    <currencyCode>CHF</currencyCode>
+    <rate>25.9268861809696</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CI</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CK</countryCode>
+    <currencyCode>NZD</currencyCode>
+    <rate>16.0320641282565</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CL</countryCode>
+    <currencyCode>CLP</currencyCode>
+    <rate>0.0322302415002326</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CM</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.0426338910954769</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CN</countryCode>
+    <currencyCode>CNY</currencyCode>
+    <rate>3.49053541322703</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CO</countryCode>
+    <currencyCode>COP</currencyCode>
+    <rate>0.00685327189420768</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CR</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CU</countryCode>
+    <currencyCode>CUP</currencyCode>
+    <rate>0.933594366318155</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CV</countryCode>
+    <currencyCode>CVE</currencyCode>
+    <rate>0.25363207471798</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CW</countryCode>
+    <currencyCode>ANG</currencyCode>
+    <rate>13.8226553320892</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CX</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CY</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>CZ</countryCode>
+    <currencyCode>CZK</currencyCode>
+    <rate>1.04510899441702</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DE</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DJ</countryCode>
+    <currencyCode>DJF</currencyCode>
+    <rate>0.139208934095288</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DK</countryCode>
+    <currencyCode>DKK</currencyCode>
+    <rate>3.73887684139684</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DM</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DO</countryCode>
+    <currencyCode>DOP</currencyCode>
+    <rate>0.431887273966396</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>DZ</countryCode>
+    <currencyCode>DZD</currencyCode>
+    <rate>0.192315606834588</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EC</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EE</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EG</countryCode>
+    <currencyCode>EGP</currencyCode>
+    <rate>1.52799594164277</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EH</countryCode>
+    <currencyCode>MAD</currencyCode>
+    <rate>2.55782605248147</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ER</countryCode>
+    <currencyCode>ERN</currencyCode>
+    <rate>1.64937571129327</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ES</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ET</countryCode>
+    <currencyCode>ETB</currencyCode>
+    <rate>0.7238456471542</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EU</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FI</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FJ</countryCode>
+    <currencyCode>FJD</currencyCode>
+    <rate>11.4867270868511</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FK</countryCode>
+    <currencyCode>FKP</currencyCode>
+    <rate>31.2861746394268</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FM</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FO</countryCode>
+    <currencyCode>DKK</currencyCode>
+    <rate>3.73887684139684</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>FR</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GA</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.0426338910954769</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GB</countryCode>
+    <currencyCode>GBP</currencyCode>
+    <rate>31.2793243665936</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GD</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GE</countryCode>
+    <currencyCode>GEL</currencyCode>
+    <rate>8.26063970393867</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GF</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GG</countryCode>
+    <currencyCode>GBP</currencyCode>
+    <rate>31.2793243665936</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GH</countryCode>
+    <currencyCode>GHS</currencyCode>
+    <rate>4.28912107330965</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GI</countryCode>
+    <currencyCode>GIP</currencyCode>
+    <rate>31.2861746394268</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GL</countryCode>
+    <currencyCode>DKK</currencyCode>
+    <rate>3.73887684139684</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GM</countryCode>
+    <currencyCode>GMD</currencyCode>
+    <rate>0.479930736396123</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GN</countryCode>
+    <currencyCode>GNF</currencyCode>
+    <rate>0.00258845737279735</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GP</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GQ</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.0426338910954769</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GR</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GS</countryCode>
+    <currencyCode>GBP</currencyCode>
+    <rate>31.2793243665936</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GT</countryCode>
+    <currencyCode>GTQ</currencyCode>
+    <rate>3.23082987096065</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GU</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GW</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>GY</countryCode>
+    <currencyCode>GYD</currencyCode>
+    <rate>0.11865901078729</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HK</countryCode>
+    <currencyCode>HKD</currencyCode>
+    <rate>3.19225686175612</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HM</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HN</countryCode>
+    <currencyCode>HNL</currencyCode>
+    <rate>1</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HR</countryCode>
+    <currencyCode>HRK</currencyCode>
+    <rate>3.68514150943396</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HT</countryCode>
+    <currencyCode>HTG</currencyCode>
+    <rate>0.229004993911902</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>HU</countryCode>
+    <currencyCode>HUF</currencyCode>
+    <rate>0.0807691614941422</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IC</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ID</countryCode>
+    <currencyCode>IDR</currencyCode>
+    <rate>0.00175656436667076</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IE</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IL</countryCode>
+    <currencyCode>ILS</currencyCode>
+    <rate>7.15527665877201</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IM</countryCode>
+    <currencyCode>GBP</currencyCode>
+    <rate>31.2793243665936</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IN</countryCode>
+    <currencyCode>INR</currencyCode>
+    <rate>0.327184768109431</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IO</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IQ</countryCode>
+    <currencyCode>IQD</currencyCode>
+    <rate>0.0207839113571168</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IR</countryCode>
+    <currencyCode>IRR</currencyCode>
+    <rate>0.000587584436169925</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IS</countryCode>
+    <currencyCode>ISK</currencyCode>
+    <rate>0.18619834555322</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>IT</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>JE</countryCode>
+    <currencyCode>GBP</currencyCode>
+    <rate>31.2793243665936</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>JM</countryCode>
+    <currencyCode>JMD</currencyCode>
+    <rate>0.175927737330036</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>JO</countryCode>
+    <currencyCode>JOD</currencyCode>
+    <rate>34.8930527931888</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>JP</countryCode>
+    <currencyCode>JPY</currencyCode>
+    <rate>0.229326923187176</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KE</countryCode>
+    <currencyCode>KES</currencyCode>
+    <rate>0.232411558105678</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KG</countryCode>
+    <currencyCode>KGS</currencyCode>
+    <rate>0.333441257153565</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KH</countryCode>
+    <currencyCode>KHR</currencyCode>
+    <rate>0.00600444070421161</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KI</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KM</countryCode>
+    <currencyCode>KMF</currencyCode>
+    <rate>0.0567308227977576</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KN</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KP</countryCode>
+    <currencyCode>KPW</currencyCode>
+    <rate>0.0274881458745323</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KR</countryCode>
+    <currencyCode>KRW</currencyCode>
+    <rate>0.0205995350478944</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KW</countryCode>
+    <currencyCode>KWD</currencyCode>
+    <rate>80.3793907242183</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KY</countryCode>
+    <currencyCode>KYD</currencyCode>
+    <rate>29.772537811123</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>KZ</countryCode>
+    <currencyCode>KZT</currencyCode>
+    <rate>0.062442513860677</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LA</countryCode>
+    <currencyCode>LAK</currencyCode>
+    <rate>0.00275719988363844</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LB</countryCode>
+    <currencyCode>LBP</currencyCode>
+    <rate>0.0164100458230837</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LC</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LI</countryCode>
+    <currencyCode>CHF</currencyCode>
+    <rate>25.9268861809696</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LK</countryCode>
+    <currencyCode>LKR</currencyCode>
+    <rate>0.134046568314018</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LR</countryCode>
+    <currencyCode>LRD</currencyCode>
+    <rate>0.124322875458813</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LS</countryCode>
+    <currencyCode>LSL</currencyCode>
+    <rate>1.47306862290179</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LT</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LU</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LV</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>LY</countryCode>
+    <currencyCode>LYD</currencyCode>
+    <rate>17.6019150883616</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MA</countryCode>
+    <currencyCode>MAD</currencyCode>
+    <rate>2.55782605248147</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MC</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MD</countryCode>
+    <currencyCode>MDL</currencyCode>
+    <rate>1.45824037050971</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ME</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MF</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MG</countryCode>
+    <currencyCode>MGA</currencyCode>
+    <rate>0.00651062521013042</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MH</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MK</countryCode>
+    <currencyCode>MKD</currencyCode>
+    <rate>0.453441324919276</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ML</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MM</countryCode>
+    <currencyCode>MMK</currencyCode>
+    <rate>0.017659641525877</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MN</countryCode>
+    <currencyCode>MNT</currencyCode>
+    <rate>0.00879226633659795</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MO</countryCode>
+    <currencyCode>MOP</currencyCode>
+    <rate>3.10806106718384</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MP</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MQ</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MR</countryCode>
+    <currencyCode>MRU</currencyCode>
+    <rate>0.644303237515698</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MS</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MT</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MU</countryCode>
+    <currencyCode>MUR</currencyCode>
+    <rate>0.621593666706448</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MV</countryCode>
+    <currencyCode>MVR</currencyCode>
+    <rate>1.60128871715957</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MW</countryCode>
+    <currencyCode>MWK</currencyCode>
+    <rate>0.0336746630858376</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MX</countryCode>
+    <currencyCode>MXN</currencyCode>
+    <rate>1.1326298191983</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MY</countryCode>
+    <currencyCode>MYR</currencyCode>
+    <rate>5.78586513148378</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>MZ</countryCode>
+    <currencyCode>MZN</currencyCode>
+    <rate>0.355641921220335</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NA</countryCode>
+    <currencyCode>NAD</currencyCode>
+    <rate>1.47436738581393</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NC</countryCode>
+    <currencyCode>XPF</currencyCode>
+    <rate>0.234496058590247</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NE</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NF</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NG</countryCode>
+    <currencyCode>NGN</currencyCode>
+    <rate>0.0639546525698674</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NI</countryCode>
+    <currencyCode>NIO</currencyCode>
+    <rate>0.73553478895668</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NL</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NO</countryCode>
+    <currencyCode>NOK</currencyCode>
+    <rate>2.64369821656118</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NP</countryCode>
+    <currencyCode>NPR</currencyCode>
+    <rate>0.205354537421449</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NR</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NU</countryCode>
+    <currencyCode>NZD</currencyCode>
+    <rate>16.0320641282565</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>NZ</countryCode>
+    <currencyCode>NZD</currencyCode>
+    <rate>16.0320641282565</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>OM</countryCode>
+    <currencyCode>OMR</currencyCode>
+    <rate>64.2632221579589</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PA</countryCode>
+    <currencyCode>PAB</currencyCode>
+    <rate>24.8108175164371</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PE</countryCode>
+    <currencyCode>PEN</currencyCode>
+    <rate>7.23259295690097</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PF</countryCode>
+    <currencyCode>XPF</currencyCode>
+    <rate>0.234496058590247</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PG</countryCode>
+    <currencyCode>PGK</currencyCode>
+    <rate>7.16450418048818</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PK</countryCode>
+    <currencyCode>PKR</currencyCode>
+    <rate>0.151893504426176</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PL</countryCode>
+    <currencyCode>PLN</currencyCode>
+    <rate>6.26754913758523</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PM</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PN</countryCode>
+    <currencyCode>NZD</currencyCode>
+    <rate>16.0320641282565</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PR</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PS</countryCode>
+    <currencyCode>JOD</currencyCode>
+    <rate>34.8930527931888</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PT</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PW</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>PY</countryCode>
+    <currencyCode>PYG</currencyCode>
+    <rate>0.00372551946259053</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>QA</countryCode>
+    <currencyCode>QAR</currencyCode>
+    <rate>6.79486308350886</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RE</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RO</countryCode>
+    <currencyCode>RON</currencyCode>
+    <rate>5.76119832925248</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RS</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RU</countryCode>
+    <currencyCode>RUB</currencyCode>
+    <rate>0.359377156262937</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>RW</countryCode>
+    <currencyCode>RWF</currencyCode>
+    <rate>0.0260006121064102</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SA</countryCode>
+    <currencyCode>SAR</currencyCode>
+    <rate>6.59413122321134</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SB</countryCode>
+    <currencyCode>SBD</currencyCode>
+    <rate>2.9680019707533</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SC</countryCode>
+    <currencyCode>SCR</currencyCode>
+    <rate>1.40651525998731</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SD</countryCode>
+    <currencyCode>SDG</currencyCode>
+    <rate>0.447584698690456</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SE</countryCode>
+    <currencyCode>SEK</currencyCode>
+    <rate>2.66815371767198</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SG</countryCode>
+    <currencyCode>SGD</currencyCode>
+    <rate>17.7572582793216</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SH</countryCode>
+    <currencyCode>SHP</currencyCode>
+    <rate>31.2861746394268</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SI</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SJ</countryCode>
+    <currencyCode>NOK</currencyCode>
+    <rate>2.64369821656118</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SK</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SL</countryCode>
+    <currencyCode>SLL</currencyCode>
+    <rate>0.00253746074871748</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SM</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SN</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SO</countryCode>
+    <currencyCode>SOS</currencyCode>
+    <rate>0.0424361183648582</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SR</countryCode>
+    <currencyCode>SRD</currencyCode>
+    <rate>3.3172777092207</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ST</countryCode>
+    <currencyCode>STN</currencyCode>
+    <rate>1.12711743098378</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SV</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SX</countryCode>
+    <currencyCode>ANG</currencyCode>
+    <rate>13.8226553320892</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SY</countryCode>
+    <currencyCode>SYP</currencyCode>
+    <rate>0.0482025579458614</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>SZ</countryCode>
+    <currencyCode>SZL</currencyCode>
+    <rate>1.47465220327785</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TC</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TD</countryCode>
+    <currencyCode>XAF</currencyCode>
+    <rate>0.0426338910954769</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TF</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TG</countryCode>
+    <currencyCode>XOF</currencyCode>
+    <rate>0.0426335148455227</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TH</countryCode>
+    <currencyCode>THB</currencyCode>
+    <rate>0.789158851363508</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TJ</countryCode>
+    <currencyCode>TJS</currencyCode>
+    <rate>2.41194588558211</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TK</countryCode>
+    <currencyCode>NZD</currencyCode>
+    <rate>16.0320641282565</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TL</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TM</countryCode>
+    <currencyCode>TMT</currencyCode>
+    <rate>7.0485078308922</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TN</countryCode>
+    <currencyCode>TND</currencyCode>
+    <rate>8.66941776190311</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TO</countryCode>
+    <currencyCode>TOP</currencyCode>
+    <rate>10.9954149119817</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TP</countryCode>
+    <currencyCode>IDR</currencyCode>
+    <rate>0.00175656436667076</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TR</countryCode>
+    <currencyCode>TRY</currencyCode>
+    <rate>3.64014939173103</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TT</countryCode>
+    <currencyCode>TTD</currencyCode>
+    <rate>3.66495024830037</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TV</countryCode>
+    <currencyCode>AUD</currencyCode>
+    <rate>17.1062985391221</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TW</countryCode>
+    <currencyCode>TWD</currencyCode>
+    <rate>0.831398253897387</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>TZ</countryCode>
+    <currencyCode>TZS</currencyCode>
+    <rate>0.0106823111534833</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UA</countryCode>
+    <currencyCode>UAH</currencyCode>
+    <rate>0.933486300621795</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UG</countryCode>
+    <currencyCode>UGX</currencyCode>
+    <rate>0.00665225420314865</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UM</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>US</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UY</countryCode>
+    <currencyCode>UYU</currencyCode>
+    <rate>0.577520255079146</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>UZ</countryCode>
+    <currencyCode>UZS</currencyCode>
+    <rate>0.00244670415297984</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VA</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VC</countryCode>
+    <currencyCode>XCD</currencyCode>
+    <rate>9.15440738943764</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VE</countryCode>
+    <currencyCode>VEF</currencyCode>
+    <rate>2.47711762593046</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VG</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VI</countryCode>
+    <currencyCode>USD</currencyCode>
+    <rate>24.740227610094</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VN</countryCode>
+    <currencyCode>VND</currencyCode>
+    <rate>0.00106338754810931</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>VU</countryCode>
+    <currencyCode>VUV</currencyCode>
+    <rate>0.213759667013741</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>WF</countryCode>
+    <currencyCode>XPF</currencyCode>
+    <rate>0.234496058590247</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>WS</countryCode>
+    <currencyCode>WST</currencyCode>
+    <rate>9.29074456026906</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>YE</countryCode>
+    <currencyCode>YER</currencyCode>
+    <rate>0.098822695580738</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>YT</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ZA</countryCode>
+    <currencyCode>ZAR</currencyCode>
+    <rate>1.474173946629</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ZM</countryCode>
+    <currencyCode>ZMW</currencyCode>
+    <rate>1.35399713494206</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>ZW</countryCode>
+    <currencyCode>ZWD</currencyCode>
+    <rate>0.0683620484908461</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+  <ExchangeRate action="U">
+    <source>https://fixer.io/</source>
+    <countryCode>EEC</countryCode>
+    <currencyCode>EUR</currencyCode>
+    <rate>27.8737874902441</rate>
+    <perUnit>1</perUnit>
+  </ExchangeRate>
+</ExchangeRates>

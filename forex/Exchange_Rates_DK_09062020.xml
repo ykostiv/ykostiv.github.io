@@ -1,0 +1,1155 @@
+
+<ExchangeRates country="DK" currency="DKK">
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>1.7968760015</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AF</countryCode>
+        <currencyCode>AFN</currencyCode>
+        <rate>.0851924416</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AG</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AI</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DM</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GD</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KN</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MS</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>2.4418997037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AL</countryCode>
+        <currencyCode>ALL</currencyCode>
+        <rate>.0600644975</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AM</countryCode>
+        <currencyCode>AMD</currencyCode>
+        <rate>.0136873381</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AO</countryCode>
+        <currencyCode>AOA</currencyCode>
+        <rate>.01119327</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AR</countryCode>
+        <currencyCode>ARS</currencyCode>
+        <rate>.0957957432</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AW</countryCode>
+        <currencyCode>AWG</currencyCode>
+        <rate>3.6866073272</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>AZ</countryCode>
+        <currencyCode>AZN</currencyCode>
+        <rate>3.8897977951</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BA</countryCode>
+        <currencyCode>BAM</currencyCode>
+        <rate>3.8116428273</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BB</countryCode>
+        <currencyCode>BBD</currencyCode>
+        <rate>3.2995135578</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BD</countryCode>
+        <currencyCode>BDT</currencyCode>
+        <rate>.0777638473</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BF</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BJ</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CI</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GW</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ML</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NE</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SN</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TG</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BH</countryCode>
+        <currencyCode>BHD</currencyCode>
+        <rate>17.5506040309</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BI</countryCode>
+        <currencyCode>BIF</currencyCode>
+        <rate>.003451903</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BM</countryCode>
+        <currencyCode>BMD</currencyCode>
+        <rate>6.5990271156</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BN</countryCode>
+        <currencyCode>BND</currencyCode>
+        <rate>4.7520602206</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BO</countryCode>
+        <currencyCode>BOB</currencyCode>
+        <rate>.9563307377</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BS</countryCode>
+        <currencyCode>BSD</currencyCode>
+        <rate>6.5990271156</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BT</countryCode>
+        <currencyCode>BTN</currencyCode>
+        <rate>.0874799036</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BW</countryCode>
+        <currencyCode>BWP</currencyCode>
+        <rate>.5578493748</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BY</countryCode>
+        <currencyCode>BYN</currencyCode>
+        <rate>2.781702083</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>BZ</countryCode>
+        <currencyCode>BZD</currencyCode>
+        <rate>3.2774265923</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CD</countryCode>
+        <currencyCode>CDF</currencyCode>
+        <rate>.003587266</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CF</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CG</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CM</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GA</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GQ</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TD</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>.0113649605</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CL</countryCode>
+        <currencyCode>CLP</currencyCode>
+        <rate>.0085973893</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CO</countryCode>
+        <currencyCode>COP</currencyCode>
+        <rate>.0018299489</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CR</countryCode>
+        <currencyCode>CRC</currencyCode>
+        <rate>.0115842466</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CU</countryCode>
+        <currencyCode>CUP</currencyCode>
+        <rate>.2490198912</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CV</countryCode>
+        <currencyCode>CVE</currencyCode>
+        <rate>.0676061067</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>CW</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>3.6869849817</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SX</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>3.6869849817</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DJ</countryCode>
+        <currencyCode>DJF</currencyCode>
+        <rate>.0371178108</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DO</countryCode>
+        <currencyCode>DOP</currencyCode>
+        <rate>.1152218717</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>DZ</countryCode>
+        <currencyCode>DZD</currencyCode>
+        <rate>.0512814493</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>EG</countryCode>
+        <currencyCode>EGP</currencyCode>
+        <rate>.4073336047</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>EH</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>.6809202625</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MA</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>.6809202625</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ER</countryCode>
+        <currencyCode>ERN</currencyCode>
+        <rate>.439935141</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ET</countryCode>
+        <currencyCode>ETB</currencyCode>
+        <rate>.1930770335</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FJ</countryCode>
+        <currencyCode>FJD</currencyCode>
+        <rate>3.0277751927</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>FK</countryCode>
+        <currencyCode>FKP</currencyCode>
+        <rate>8.3969808941</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GE</countryCode>
+        <currencyCode>GEL</currencyCode>
+        <rate>2.1952928497</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GH</countryCode>
+        <currencyCode>GHS</currencyCode>
+        <rate>1.1460604186</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GI</countryCode>
+        <currencyCode>GIP</currencyCode>
+        <rate>8.3969808941</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GM</countryCode>
+        <currencyCode>GMD</currencyCode>
+        <rate>.1281021084</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GN</countryCode>
+        <currencyCode>GNF</currencyCode>
+        <rate>.0006894706</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GT</countryCode>
+        <currencyCode>GTQ</currencyCode>
+        <rate>.8594529824</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>GY</countryCode>
+        <currencyCode>GYD</currencyCode>
+        <rate>.0314631558</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HN</countryCode>
+        <currencyCode>HNL</currencyCode>
+        <rate>.2661477225</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>HT</countryCode>
+        <currencyCode>HTG</currencyCode>
+        <rate>.0617257427</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IQ</countryCode>
+        <currencyCode>IQD</currencyCode>
+        <rate>.0055187365</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>IR</countryCode>
+        <currencyCode>IRR</currencyCode>
+        <rate>.0001569067</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>JM</countryCode>
+        <currencyCode>JMD</currencyCode>
+        <rate>.0462196025</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>JO</countryCode>
+        <currencyCode>JOD</currencyCode>
+        <rate>9.3075135622</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KE</countryCode>
+        <currencyCode>KES</currencyCode>
+        <rate>.0620793437</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KG</countryCode>
+        <currencyCode>KGS</currencyCode>
+        <rate>.0888959657</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KH</countryCode>
+        <currencyCode>KHR</currencyCode>
+        <rate>.0016049628</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KM</countryCode>
+        <currencyCode>KMF</currencyCode>
+        <rate>.0151532807</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KP</countryCode>
+        <currencyCode>KPW</currencyCode>
+        <rate>.0073317088</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>21.4225038221</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KY</countryCode>
+        <currencyCode>KYD</currencyCode>
+        <rate>8.0476625526</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>KZ</countryCode>
+        <currencyCode>KZT</currencyCode>
+        <rate>.0166066038</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LA</countryCode>
+        <currencyCode>LAK</currencyCode>
+        <rate>.0007332799</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LB</countryCode>
+        <currencyCode>LBP</currencyCode>
+        <rate>.0043774641</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LK</countryCode>
+        <currencyCode>LKR</currencyCode>
+        <rate>.0357559628</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LR</countryCode>
+        <currencyCode>LRD</currencyCode>
+        <rate>.033221638</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LS</countryCode>
+        <currencyCode>LSL</currencyCode>
+        <rate>.3947597696</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>LY</countryCode>
+        <currencyCode>LYD</currencyCode>
+        <rate>4.6973294094</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MD</countryCode>
+        <currencyCode>MDL</currencyCode>
+        <rate>.3734939056</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MG</countryCode>
+        <currencyCode>MGA</currencyCode>
+        <rate>.0017362406</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MK</countryCode>
+        <currencyCode>MKD</currencyCode>
+        <rate>.1208596083</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MM</countryCode>
+        <currencyCode>MMK</currencyCode>
+        <rate>.0047064037</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MN</countryCode>
+        <currencyCode>MNT</currencyCode>
+        <rate>.0023445663</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MO</countryCode>
+        <currencyCode>MOP</currencyCode>
+        <rate>.8266571234</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MR</countryCode>
+        <currencyCode>MRU</currencyCode>
+        <rate>.1751299208</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MU</countryCode>
+        <currencyCode>MUR</currencyCode>
+        <rate>.1645781817</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MV</countryCode>
+        <currencyCode>MVR</currencyCode>
+        <rate>.4283274709</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MW</countryCode>
+        <currencyCode>MWK</currencyCode>
+        <rate>.0089269168</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>MZ</countryCode>
+        <currencyCode>MZN</currencyCode>
+        <rate>.0957287709</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NA</countryCode>
+        <currencyCode>NAD</currencyCode>
+        <rate>.3947597696</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NC</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>.0624722748</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PF</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>.0624722748</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NG</countryCode>
+        <currencyCode>NGN</currencyCode>
+        <rate>.0170593292</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NI</countryCode>
+        <currencyCode>NIO</currencyCode>
+        <rate>.1957818449</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>NP</countryCode>
+        <currencyCode>NPR</currencyCode>
+        <rate>.0544198467</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>OM</countryCode>
+        <currencyCode>OMR</currencyCode>
+        <rate>17.1626192863</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PA</countryCode>
+        <currencyCode>PAB</currencyCode>
+        <rate>6.5990271156</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PE</countryCode>
+        <currencyCode>PEN</currencyCode>
+        <rate>1.9202376986</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PG</countryCode>
+        <currencyCode>PGK</currencyCode>
+        <rate>1.9071330861</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>.0404096772</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>PY</countryCode>
+        <currencyCode>PYG</currencyCode>
+        <rate>.00099314</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>QA</countryCode>
+        <currencyCode>QAR</currencyCode>
+        <rate>1.8129195373</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RS</countryCode>
+        <currencyCode>RSD</currencyCode>
+        <rate>.0629337198</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>RW</countryCode>
+        <currencyCode>RWF</currencyCode>
+        <rate>.007052951</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>1.7597405642</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SB</countryCode>
+        <currencyCode>SBD</currencyCode>
+        <rate>.793199442</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SC</countryCode>
+        <currencyCode>SCR</currencyCode>
+        <rate>.3752430118</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SD</countryCode>
+        <currencyCode>SDG</currencyCode>
+        <rate>.1194489709</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SH</countryCode>
+        <currencyCode>SHP</currencyCode>
+        <rate>8.3969808941</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SL</countryCode>
+        <currencyCode>SLL</currencyCode>
+        <rate>.0006709224</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SO</countryCode>
+        <currencyCode>SOS</currencyCode>
+        <rate>.0114557919</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SR</countryCode>
+        <currencyCode>SRD</currencyCode>
+        <rate>.8850676257</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ST</countryCode>
+        <currencyCode>STN</currencyCode>
+        <rate>.3021305832</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SV</countryCode>
+        <currencyCode>SVC</currencyCode>
+        <rate>.7541745275</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SY</countryCode>
+        <currencyCode>SYP</currencyCode>
+        <rate>.0128609616</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>SZ</countryCode>
+        <currencyCode>SZL</currencyCode>
+        <rate>.3947597696</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TJ</countryCode>
+        <currencyCode>TJS</currencyCode>
+        <rate>.639763121</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TM</countryCode>
+        <currencyCode>TMT</currencyCode>
+        <rate>1.885387759</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TN</countryCode>
+        <currencyCode>TND</currencyCode>
+        <rate>2.3335078803</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TO</countryCode>
+        <currencyCode>TOP</currencyCode>
+        <rate>2.9363090783</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TT</countryCode>
+        <currencyCode>TTD</currencyCode>
+        <rate>.9765420435</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>.2220696794</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>TZ</countryCode>
+        <currencyCode>TZS</currencyCode>
+        <rate>.0028519396</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UA</countryCode>
+        <currencyCode>UAH</currencyCode>
+        <rate>.2481502558</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UG</countryCode>
+        <currencyCode>UGX</currencyCode>
+        <rate>.0017517681</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UY</countryCode>
+        <currencyCode>UYU</currencyCode>
+        <rate>.1536986648</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>UZ</countryCode>
+        <currencyCode>UZS</currencyCode>
+        <rate>.000649506</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VE</countryCode>
+        <currencyCode>VEF</currencyCode>
+        <rate>.6607286223</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VN</countryCode>
+        <currencyCode>VND</currencyCode>
+        <rate>.0002833116</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>VU</countryCode>
+        <currencyCode>VUV</currencyCode>
+        <rate>.0568976893</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>WS</countryCode>
+        <currencyCode>WST</currencyCode>
+        <rate>2.4859679997</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>YE</countryCode>
+        <currencyCode>YER</currencyCode>
+        <rate>.0263687416</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZM</countryCode>
+        <currencyCode>ZMW</currencyCode>
+        <rate>.3610664189</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.xe.com/</source>
+        <countryCode>ZW</countryCode>
+        <currencyCode>ZWD</currencyCode>
+        <rate>.0182343938</rate>
+        <effectiveFrom>2020-06-09+02:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

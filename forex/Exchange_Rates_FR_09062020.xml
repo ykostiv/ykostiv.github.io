@@ -1,0 +1,2139 @@
+
+<ExchangeRates country="FR" currency="EUR">
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AD</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AE</countryCode>
+        <currencyCode>AED</currencyCode>
+        <rate>0.248571</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AF</countryCode>
+        <currencyCode>AFN</currencyCode>
+        <rate>0.011948</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AG</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AI</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AL</countryCode>
+        <currencyCode>ALL</currencyCode>
+        <rate>0.008102</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AM</countryCode>
+        <currencyCode>AMD</currencyCode>
+        <rate>0.001904</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AO</countryCode>
+        <currencyCode>AOA</currencyCode>
+        <rate>0.001641</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AR</countryCode>
+        <currencyCode>ARS</currencyCode>
+        <rate>0.01367</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AS</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AW</countryCode>
+        <currencyCode>AWG</currencyCode>
+        <rate>0.509139</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>AZ</countryCode>
+        <currencyCode>AZN</currencyCode>
+        <rate>0.536942</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BA</countryCode>
+        <currencyCode>BAM</currencyCode>
+        <rate>0.5113</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BB</countryCode>
+        <currencyCode>BBD</currencyCode>
+        <rate>0.451671</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BD</countryCode>
+        <currencyCode>BDT</currencyCode>
+        <rate>0.010746</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BF</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BG</countryCode>
+        <currencyCode>BGN</currencyCode>
+        <rate>0.5113</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BH</countryCode>
+        <currencyCode>BHD</currencyCode>
+        <rate>2.41721</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BI</countryCode>
+        <currencyCode>BIF</currencyCode>
+        <rate>4.8E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BJ</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2013-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BM</countryCode>
+        <currencyCode>BMD</currencyCode>
+        <rate>0.913075</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BN</countryCode>
+        <currencyCode>BND</currencyCode>
+        <rate>0.647082</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BO</countryCode>
+        <currencyCode>BOB</currencyCode>
+        <rate>0.132247</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BQ</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.159602</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BS</countryCode>
+        <currencyCode>BSD</currencyCode>
+        <rate>0.919879</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BT</countryCode>
+        <currencyCode>BTN</currencyCode>
+        <rate>0.012248</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.091941</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BW</countryCode>
+        <currencyCode>BWP</currencyCode>
+        <rate>0.074855</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BY</countryCode>
+        <currencyCode>BYN</currencyCode>
+        <rate>0.377672</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>BZ</countryCode>
+        <currencyCode>BZD</currencyCode>
+        <rate>0.456558</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>0.657419</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CD</countryCode>
+        <currencyCode>CDF</currencyCode>
+        <rate>5.29E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CF</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CG</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.944822</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CI</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.559942</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CL</countryCode>
+        <currencyCode>CLP</currencyCode>
+        <rate>0.001094</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CM</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.128525</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CO</countryCode>
+        <currencyCode>COP</currencyCode>
+        <rate>2.31E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CR</countryCode>
+        <currencyCode>CRC</currencyCode>
+        <rate>0.001609</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CU</countryCode>
+        <currencyCode>CUC</currencyCode>
+        <rate>0.913075</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CV</countryCode>
+        <currencyCode>CVE</currencyCode>
+        <rate>0.009069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CW</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>0.509139</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CY</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2008-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>CZ</countryCode>
+        <currencyCode>CZK</currencyCode>
+        <rate>0.036456</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>DE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>DJ</countryCode>
+        <currencyCode>DJF</currencyCode>
+        <rate>0.005133</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.134111</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>DM</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>DO</countryCode>
+        <currencyCode>DOP</currencyCode>
+        <rate>0.016609</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>DZ</countryCode>
+        <currencyCode>DZD</currencyCode>
+        <rate>0.007175</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>EE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2011-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>EG</countryCode>
+        <currencyCode>EGP</currencyCode>
+        <rate>0.057958</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>EH</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>0.092622</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ER</countryCode>
+        <currencyCode>ERN</currencyCode>
+        <rate>0.060938</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ES</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ET</countryCode>
+        <currencyCode>ETB</currencyCode>
+        <rate>0.02723</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>FI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>FJ</countryCode>
+        <currencyCode>FJD</currencyCode>
+        <rate>0.408881</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>FK</countryCode>
+        <currencyCode>FKP</currencyCode>
+        <rate>1.119069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>FM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.134111</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>FR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GA</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.119069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GD</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GE</countryCode>
+        <currencyCode>GEL</currencyCode>
+        <rate>0.2849</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GH</countryCode>
+        <currencyCode>GHS</currencyCode>
+        <rate>0.157389</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GI</countryCode>
+        <currencyCode>GIP</currencyCode>
+        <rate>1.119069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.134111</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GM</countryCode>
+        <currencyCode>GMD</currencyCode>
+        <rate>0.017695</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GN</countryCode>
+        <currencyCode>GNF</currencyCode>
+        <rate>9.6E-5</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GP</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GQ</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GS</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.119069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GT</countryCode>
+        <currencyCode>GTQ</currencyCode>
+        <rate>0.118395</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GU</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GW</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>GY</countryCode>
+        <currencyCode>GYD</currencyCode>
+        <rate>0.004364</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>0.11775</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>HM</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>HN</countryCode>
+        <currencyCode>HNL</currencyCode>
+        <rate>0.036793</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>HR</countryCode>
+        <currencyCode>HRK</currencyCode>
+        <rate>0.131978</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>HT</countryCode>
+        <currencyCode>HTG</currencyCode>
+        <rate>0.008527</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>HU</countryCode>
+        <currencyCode>HUF</currencyCode>
+        <rate>0.002852</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ID</countryCode>
+        <currencyCode>IDR</currencyCode>
+        <rate>6.2E-5</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.260437</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.012068</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IO</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.119069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IQ</countryCode>
+        <currencyCode>IQD</currencyCode>
+        <rate>7.67E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IR</countryCode>
+        <currencyCode>IRR</currencyCode>
+        <rate>2.2E-5</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IS</countryCode>
+        <currencyCode>ISK</currencyCode>
+        <rate>0.00639</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>IT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>JM</countryCode>
+        <currencyCode>JMD</currencyCode>
+        <rate>0.006461</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>JO</countryCode>
+        <currencyCode>JOD</currencyCode>
+        <rate>1.286505</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.008478</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KE</countryCode>
+        <currencyCode>KES</currencyCode>
+        <rate>0.008515</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KG</countryCode>
+        <currencyCode>KGS</currencyCode>
+        <rate>0.011548</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KH</countryCode>
+        <currencyCode>KHR</currencyCode>
+        <rate>2.22E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KM</countryCode>
+        <currencyCode>KMF</currencyCode>
+        <rate>0.002033</rate>
+        <effectiveFrom>2011-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KN</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KP</countryCode>
+        <currencyCode>KPW</currencyCode>
+        <rate>0.001014</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>7.43E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KW</countryCode>
+        <currencyCode>KWD</currencyCode>
+        <rate>2.952465</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KY</countryCode>
+        <currencyCode>KYD</currencyCode>
+        <rate>1.113214</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>KZ</countryCode>
+        <currencyCode>KZT</currencyCode>
+        <rate>0.002143</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LA</countryCode>
+        <currencyCode>LAK</currencyCode>
+        <rate>1.02E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LB</countryCode>
+        <currencyCode>LBP</currencyCode>
+        <rate>6.04E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>0.944822</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LK</countryCode>
+        <currencyCode>LKR</currencyCode>
+        <rate>0.004772</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LR</countryCode>
+        <currencyCode>LRD</currencyCode>
+        <rate>0.004609</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LS</countryCode>
+        <currencyCode>LSL</currencyCode>
+        <rate>0.049292</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2015-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LV</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2014-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>LY</countryCode>
+        <currencyCode>LYD</currencyCode>
+        <rate>0.647585</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MA</countryCode>
+        <currencyCode>MAD</currencyCode>
+        <rate>0.092622</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MD</countryCode>
+        <currencyCode>MDL</currencyCode>
+        <rate>0.050729</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ME</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2007-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MG</countryCode>
+        <currencyCode>MGA</currencyCode>
+        <rate>2.4E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MH</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MK</countryCode>
+        <currencyCode>MKD</currencyCode>
+        <rate>0.016212</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ML</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MM</countryCode>
+        <currencyCode>MMK</currencyCode>
+        <rate>6.47E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MN</countryCode>
+        <currencyCode>MNT</currencyCode>
+        <rate>3.28E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MO</countryCode>
+        <currencyCode>MOP</currencyCode>
+        <rate>0.114376</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MP</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MQ</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MR</countryCode>
+        <currencyCode>MRU</currencyCode>
+        <rate>0.024067</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MS</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2008-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MU</countryCode>
+        <currencyCode>MUR</currencyCode>
+        <rate>0.022915</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MV</countryCode>
+        <currencyCode>MVR</currencyCode>
+        <rate>0.059101</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MW</countryCode>
+        <currencyCode>MWK</currencyCode>
+        <rate>0.001248</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.038998</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>0.209714</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>MZ</countryCode>
+        <currencyCode>MZN</currencyCode>
+        <rate>0.01346</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NA</countryCode>
+        <currencyCode>NAD</currencyCode>
+        <rate>0.049272</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NC</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.00838</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NE</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NG</countryCode>
+        <currencyCode>NGN</currencyCode>
+        <rate>0.002355</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NI</countryCode>
+        <currencyCode>NIO</currencyCode>
+        <rate>0.026433</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.091941</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NP</countryCode>
+        <currencyCode>NPR</currencyCode>
+        <rate>0.007502</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.559942</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.559942</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>OM</countryCode>
+        <currencyCode>OMR</currencyCode>
+        <rate>2.371917</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PA</countryCode>
+        <currencyCode>PAB</currencyCode>
+        <rate>0.913075</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PE</countryCode>
+        <currencyCode>PEN</currencyCode>
+        <rate>0.270526</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PF</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.00838</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PG</countryCode>
+        <currencyCode>PGK</currencyCode>
+        <rate>0.265632</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>0.018035</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>0.005689</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PL</countryCode>
+        <currencyCode>PLN</currencyCode>
+        <rate>0.220066</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.559942</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PS</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.260437</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>PY</countryCode>
+        <currencyCode>PYG</currencyCode>
+        <rate>1.4E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>QA</countryCode>
+        <currencyCode>QAR</currencyCode>
+        <rate>0.248663</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>RE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>RO</countryCode>
+        <currencyCode>RON</currencyCode>
+        <rate>0.206526</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>RU</countryCode>
+        <currencyCode>RUB</currencyCode>
+        <rate>0.012723</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>RW</countryCode>
+        <currencyCode>RWF</currencyCode>
+        <rate>9.55E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SA</countryCode>
+        <currencyCode>SAR</currencyCode>
+        <rate>0.24243</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SB</countryCode>
+        <currencyCode>SBD</currencyCode>
+        <rate>0.109449</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SC</countryCode>
+        <currencyCode>SCR</currencyCode>
+        <rate>0.053513</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SD</countryCode>
+        <currencyCode>SDG</currencyCode>
+        <rate>0.016534</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.094726</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>0.645036</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SH</countryCode>
+        <currencyCode>SHP</currencyCode>
+        <rate>1.119069</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2007-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2009-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SL</countryCode>
+        <currencyCode>SLL</currencyCode>
+        <rate>9.4E-5</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SN</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SO</countryCode>
+        <currencyCode>SOS</currencyCode>
+        <rate>0.001576</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SR</countryCode>
+        <currencyCode>SRD</currencyCode>
+        <rate>0.120941</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SS</countryCode>
+        <currencyCode>SSP</currencyCode>
+        <rate>0.016534</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ST</countryCode>
+        <currencyCode>STD</currencyCode>
+        <rate>0.040294</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SV</countryCode>
+        <currencyCode>SVC</currencyCode>
+        <rate>0.104347</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SX</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2013-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SX</countryCode>
+        <currencyCode>ANG</currencyCode>
+        <rate>0.509139</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SY</countryCode>
+        <currencyCode>SYP</currencyCode>
+        <rate>0.001782</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>SZ</countryCode>
+        <currencyCode>SZL</currencyCode>
+        <rate>0.049292</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TD</countryCode>
+        <currencyCode>XAF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TG</countryCode>
+        <currencyCode>XOF</currencyCode>
+        <rate>0.001524</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.02868</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TJ</countryCode>
+        <currencyCode>TJS</currencyCode>
+        <rate>0.089162</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.559942</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TL</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TM</countryCode>
+        <currencyCode>TMT</currencyCode>
+        <rate>0.320287</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TN</countryCode>
+        <currencyCode>TND</currencyCode>
+        <rate>0.316236</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TO</countryCode>
+        <currencyCode>TOP</currencyCode>
+        <rate>0.396652</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TR</countryCode>
+        <currencyCode>TRY</currencyCode>
+        <rate>0.134374</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TT</countryCode>
+        <currencyCode>TTD</currencyCode>
+        <rate>0.13519</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.600492</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>0.030868</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>TZ</countryCode>
+        <currencyCode>TZS</currencyCode>
+        <rate>3.95E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>UA</countryCode>
+        <currencyCode>UAH</currencyCode>
+        <rate>0.033853</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>UG</countryCode>
+        <currencyCode>UGX</currencyCode>
+        <rate>2.4E-4</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>UM</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>US</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>UY</countryCode>
+        <currencyCode>UYU</currencyCode>
+        <rate>0.021609</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>UZ</countryCode>
+        <currencyCode>UZS</currencyCode>
+        <rate>9.0E-5</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VA</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VC</countryCode>
+        <currencyCode>XCD</currencyCode>
+        <rate>0.338192</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VE</countryCode>
+        <currencyCode>VES</currencyCode>
+        <rate>5.0E-6</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VG</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VI</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VN</countryCode>
+        <currencyCode>VND</currencyCode>
+        <rate>3.9E-5</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>VU</countryCode>
+        <currencyCode>VUV</currencyCode>
+        <rate>0.007644</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>WF</countryCode>
+        <currencyCode>XPF</currencyCode>
+        <rate>0.00838</rate>
+        <effectiveFrom>2011-08-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>WS</countryCode>
+        <currencyCode>WST</currencyCode>
+        <rate>0.334919</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>XK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2005-06-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>RS</countryCode>
+        <currencyCode>RSD</currencyCode>
+        <rate>0.008505</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>YE</countryCode>
+        <currencyCode>YER</currencyCode>
+        <rate>0.003655</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>YT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.0</rate>
+        <effectiveFrom>2004-01-01+01:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.050632</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ZM</countryCode>
+        <currencyCode>ZMW</currencyCode>
+        <rate>0.04904</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ZW</countryCode>
+        <currencyCode>USD</currencyCode>
+        <rate>0.912575</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>https://pro.douane.gouv.fr</source>
+        <countryCode>ZW</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.128525</rate>
+        <effectiveFrom>2020-06-01+01:00</effectiveFrom>
+        <effectiveTo>2020-06-30+01:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

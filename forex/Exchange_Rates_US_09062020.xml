@@ -1,0 +1,595 @@
+
+<ExchangeRates country="US" currency="USD">
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>DK</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.146479</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>FO</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.146479</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>GL</countryCode>
+        <currencyCode>DKK</currencyCode>
+        <rate>0.146479</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>JP</countryCode>
+        <currencyCode>JPY</currencyCode>
+        <rate>0.009341</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>TW</countryCode>
+        <currencyCode>TWD</currencyCode>
+        <rate>0.033613</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CN</countryCode>
+        <currencyCode>CNY</currencyCode>
+        <rate>0.140867</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CH</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>1.033592</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>LI</countryCode>
+        <currencyCode>CHF</currencyCode>
+        <rate>1.033592</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>AD</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>AT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>AX</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>BE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>BL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CY</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>DE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>EE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>ES</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>FI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>FR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>GF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>GP</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>GR</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>IE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>IT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>LT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>LU</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>LV</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>MC</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>ME</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>MF</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>MQ</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>MT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>NL</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>PM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>PT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>RE</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>SI</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>SK</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>SM</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>VA</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>YT</countryCode>
+        <currencyCode>EUR</currencyCode>
+        <rate>1.1293</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>MX</countryCode>
+        <currencyCode>MXN</currencyCode>
+        <rate>0.046215</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>MY</countryCode>
+        <currencyCode>MYR</currencyCode>
+        <rate>0.229437</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>PH</countryCode>
+        <currencyCode>PHP</currencyCode>
+        <rate>0.019639</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>TH</countryCode>
+        <currencyCode>THB</currencyCode>
+        <rate>0.030266</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.6541</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>NU</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.6541</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>NZ</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.6541</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>PN</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.6541</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>TK</countryCode>
+        <currencyCode>NZD</currencyCode>
+        <rate>0.6541</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>GB</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2394</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>GG</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2394</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>IM</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2394</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>JE</countryCode>
+        <currencyCode>GBP</currencyCode>
+        <rate>1.2394</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CA</countryCode>
+        <currencyCode>CAD</currencyCode>
+        <rate>0.74744</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>BR</countryCode>
+        <currencyCode>BRL</currencyCode>
+        <rate>0.204675</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>SG</countryCode>
+        <currencyCode>SGD</currencyCode>
+        <rate>0.697058</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>ZA</countryCode>
+        <currencyCode>ZAR</currencyCode>
+        <rate>0.059559</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>LK</countryCode>
+        <currencyCode>LKR</currencyCode>
+        <rate>0.005356</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>SE</countryCode>
+        <currencyCode>SEK</currencyCode>
+        <rate>0.108533</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>IL</countryCode>
+        <currencyCode>ILS</currencyCode>
+        <rate>0.289805</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>AU</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CC</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>CX</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>KI</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>NF</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>NR</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>TV</countryCode>
+        <currencyCode>AUD</currencyCode>
+        <rate>0.6995</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>HK</countryCode>
+        <currencyCode>HKD</currencyCode>
+        <rate>0.128986</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>IN</countryCode>
+        <currencyCode>INR</currencyCode>
+        <rate>0.013089</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>BV</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.107812</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>NO</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.107812</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>SJ</countryCode>
+        <currencyCode>NOK</currencyCode>
+        <rate>0.107812</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+    <ExchangeRate action="U">
+        <source>http://www.cbp.gov/document/report/daily-foreign-currency-exchange-rate-multipliers</source>
+        <countryCode>KR</countryCode>
+        <currencyCode>KRW</currencyCode>
+        <rate>0.000835</rate>
+        <effectiveFrom>2020-06-08-08:00</effectiveFrom>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>

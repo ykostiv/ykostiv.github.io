@@ -1,0 +1,12 @@
+
+<ExchangeRates country="NO" currency="NOK">
+    <ExchangeRate action="U">
+        <source>ftp://ftp.toll.no/</source>
+        <countryCode>PK</countryCode>
+        <currencyCode>PKR</currencyCode>
+        <rate>0.060</rate>
+        <effectiveFrom>2020-06-07+02:00</effectiveFrom>
+        <effectiveTo>2020-06-13+02:00</effectiveTo>
+        <perUnit>1</perUnit>
+    </ExchangeRate>
+</ExchangeRates>
