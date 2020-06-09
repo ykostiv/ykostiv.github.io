@@ -1,5 +1,5 @@
 
-<ExchangeRates country="RS" currency="RSD">
+<ExchangeRates country="RS" currency="EUR">
     <ExchangeRate action="U">
         <source>https://www.nbs.rs/kursnaListaModul/srednjiKurs.faces?lang=eng</source>
         <countryCode>AU</countryCode>
