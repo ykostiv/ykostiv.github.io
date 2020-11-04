@@ -1,0 +1,77 @@
+<rss version="0.92">
+<channel>
+<title>PS Test Jira</title>
+<link>https://pluto.trilogy.com/jira</link>
+<description>This file is an XML representation of an issue</description>
+<language>en-us</language>
+<build-info>
+<version>7.12.1</version>
+<build-number>712002</build-number>
+<build-date>05-09-2018</build-date>
+</build-info>
+<item>
+<title>[DHLGTD-308] US e-Tariff update 2021</title>
+<link>https://pluto.trilogy.com/jira/browse/DHLGTD-308</link>
+<project id="10701" key="DHLGTD">DHL Data Quality</project>
+<description/>
+<environment/>
+<key id="63228">DHLGTD-308</key>
+<summary>US e-Tariff update 2021</summary>
+<type id="10003" iconUrl="https://pluto.trilogy.com/jira/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype">Task</type>
+<priority id="3" iconUrl="https://pluto.trilogy.com/jira/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10000" iconUrl="https://pluto.trilogy.com/jira/" description="">To Do</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="ykostiv">Yuriy Kostiv</reporter>
+<labels> </labels>
+<created>Wed, 4 Nov 2020 17:24:59 +0200</created>
+<updated>Wed, 4 Nov 2020 17:24:59 +0200</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments> </attachments>
+<subtasks> </subtasks>
+<customfields>
+<customfield id="customfield_10000" key="com.atlassian.jira.plugins.jira-development-integration-plugin:devsummary">
+<customfieldname>Development</customfieldname>
+<customfieldvalues> </customfieldvalues>
+</customfield>
+<customfield id="customfield_10101" key="com.pyxis.greenhopper.jira:gh-epic-link">
+<customfieldname>Epic Link</customfieldname>
+<customfieldvalues>
+<customfieldvalue>DHLGTD-297</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.toolkit:viewmessage">
+<customfieldname>Playbook Renderer (View)</customfieldname>
+<customfieldvalues> </customfieldvalues>
+</customfield>
+<customfield id="customfield_10413" key="com.atlassian.jira.toolkit:viewmessage">
+<customfieldname>Playbook Renderer - Test</customfieldname>
+<customfieldvalues> </customfieldvalues>
+</customfield>
+<customfield id="customfield_10105" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i08vbb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10106" key="com.atlassian.jira.plugin.system.customfieldtypes:float">
+<customfieldname>Story Points</customfieldname>
+<customfieldvalues>
+<customfieldvalue>1.0</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10412" key="com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons">
+<customfieldname>Unit Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue key="10216">
+<![CDATA[ Production ]]>
+</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+</channel>
+</rss>
